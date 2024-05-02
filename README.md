@@ -17,6 +17,23 @@ Este proyecto pretende implementar una alternativa por medio del uso de los sist
 - Lugar de Aplicación: Belén, Heredia, Costa Rica. 
 
 #### Entendimiento del Negocio:
+##### Objetivos
+*General*
+
+Analizar la importancia y utilidad de invertir en mercados de capitales y la introducción de modelos de inteligencia artificial en la asistencia para la inversión en mercados financieros con el fin que los inversionistas puedan tomar decisiones oportunas y efectivas por medio de la elaboración un portafolio de inversión exitoso donde se maximizan las ganancias y se diversifica el riesgo y su aplicación en economías que carecen de mercados capitales como es caso de la economía hondureña. 
+
+*Específicos*
+- Implementar un modelo para configurar un portafolio de inversión apoyado en teoría de portafolio elaborada por Harry M. Markowitz y evaluar su desempeño y utilización. 
+- Comparar los diferentes modelos de diseño de portafolio. 
+- Implementar ejecuciones prácticas asistidas por inteligencia artificial en un escenario al alcance. 
+- Evaluar los resultados de la implementación experimental asistida por computadora de los diferentes modelos. 
+
+##### Preguntas de Negocio
+- ¿Qué tan confiables son los resultados de las simulaciones y aplicación de inteligencia artificial a los mercados bursátiles y como se comprueba su efectividad? 
+
+- ¿Cómo puede asistir la minería de texto o procesamiento de lenguaje natural en el comportamiento de los mercados financieros y en la toma de decisiones de inversión?
+
+  
 ##### Formulación del Problema 
 El problema está en implementar una solución por medio de la cual se pueda conformar un portafolio de inversión óptimo, el cual en la medida de lo posible pueda predecir comportamientos que se pueden acercar a la realidad en los mercados de capitales y dar soluciones en tiempos útiles emulando el comportamiento de un experto financiero y con la capacidad procesar la información histórica, proveniente de datos estructurados (precios de mercados) y no estructurados (noticias). El modelo te inteligencia artificial se implementará de forma en la que se pueda formular un portafolio en base a la asistencia del computador, en donde se pueda recomendar a los inversionistas un portafolio que les permita obtener mejores beneficios al menor riesgo. También es se contextualizará la investigación a la utilidad en la práctica para inversionistas de Latinoamérica, una región en la que varios países carecen de mercados de capitales locales y opciones de inversión rentables. 
 
@@ -42,19 +59,3 @@ La teoría del portafolio de Markowitz es utilizada por los inversionistas para 
 Los seres humanos generalmente toman decisiones no determinísticas y sorprendentes. Por ejemplo, un ser humano es capaz de identificar a una identidad de otro ser humano con solo mirar a los ojos, ver algún rasgo físico, un patrón de caminado, escuchar una voz o inclusive con solo ver una sombra. Esto es algo que definitivamente le da una ventaja grandísima al ser humano por sobre los sistemas computacionales y modelo matemático alguno. Las decisiones de compra de acciones en algunos casos se vuelven subjetivas.  
 
 En los últimos años las ciencias de la computación han sido responsables de representar comportamientos sociales complejos mediante simulaciones y aplicaciones que implementan inteligencia artificial. Los mercados financieros están en la mira de los científicos ya que representan un comportamiento fundamental en el sistema capitalista. 
-
-##### Objetivos
-*General*
-
-Analizar la importancia y utilidad de invertir en mercados de capitales y la introducción de modelos de inteligencia artificial en la asistencia para la inversión en mercados financieros con el fin que los inversionistas puedan tomar decisiones oportunas y efectivas por medio de la elaboración un portafolio de inversión exitoso donde se maximizan las ganancias y se diversifica el riesgo y su aplicación en economías que carecen de mercados capitales como es caso de la economía hondureña. 
-
-*Específicos*
-- Implementar un modelo para configurar un portafolio de inversión apoyado en teoría de portafolio elaborada por Harry M. Markowitz y evaluar su desempeño y utilización. 
-- Comparar los diferentes modelos de diseño de portafolio. 
-- Implementar ejecuciones prácticas asistidas por inteligencia artificial en un escenario al alcance. 
-- Evaluar los resultados de la implementación experimental asistida por computadora de los diferentes modelos. 
-
-##### Preguntas de Negocio
-- ¿Qué tan confiables son los resultados de las simulaciones y aplicación de inteligencia artificial a los mercados bursátiles y como se comprueba su efectividad? 
-
-- ¿Cómo puede asistir la minería de texto o procesamiento de lenguaje natural en el comportamiento de los mercados financieros y en la toma de decisiones de inversión? 
