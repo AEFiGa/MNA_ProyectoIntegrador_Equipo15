@@ -1,0 +1,686 @@
+Symbol,Name,Source_1,Name_1,Text_1,Source_2,Name_2,Text_2,Source_3,Name_3,Text_3,Source_4,Name_4,Text_4,Source_5,Name_5,Text_5
+MMM,3M,https://news.google.com/articles/CBMiWGh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvZ3JlYXRzcGVjdWxhdGlvbnMvMjAyMi8wOS8wOS93aGF0cy1oYXBwZW5pbmctd2l0aC0zbS1zdG9jay_SAQA?hl=en-US&gl=US&ceid=US%3Aen,What's Happening With 3M Stock?,"ERROR: Article `download()` failed with HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /articles/CBMiWGh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvZ3JlYXRzcGVjdWxhdGlvbnMvMjAyMi8wOS8wOS93aGF0cy1oYXBwZW5pbmctd2l0aC0zbS1zdG9jay_SAQA?hl=en-US&gl=US&ceid=US%3Aen (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000016711746BC0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')) on URL https://news.google.com/articles/CBMiWGh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvZ3JlYXRzcGVjdWxhdGlvbnMvMjAyMi8wOS8wOS93aGF0cy1oYXBwZW5pbmctd2l0aC0zbS1zdG9jay_SAQA?hl=en-US&gl=US&ceid=US%3Aen",https://news.google.com/articles/CBMiXWh0dHBzOi8vd3d3LmZvb2wuY29tL2ludmVzdGluZy8yMDIyLzA5LzA4L3doeS0zbS1zdG9jay1wbHVuZ2VkLWluLWF1Z3VzdC1hbmQtbWF5LW5vdC1yZWNvdmVyL9IBAA?hl=en-US&gl=US&ceid=US%3Aen,Why 3M Stock Plunged in August and May Not Recover Soon,"ERROR: Article `download()` failed with HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /articles/CBMiXWh0dHBzOi8vd3d3LmZvb2wuY29tL2ludmVzdGluZy8yMDIyLzA5LzA4L3doeS0zbS1zdG9jay1wbHVuZ2VkLWluLWF1Z3VzdC1hbmQtbWF5LW5vdC1yZWNvdmVyL9IBAA?hl=en-US&gl=US&ceid=US%3Aen (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000016711744790>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')) on URL https://news.google.com/articles/CBMiXWh0dHBzOi8vd3d3LmZvb2wuY29tL2ludmVzdGluZy8yMDIyLzA5LzA4L3doeS0zbS1zdG9jay1wbHVuZ2VkLWluLWF1Z3VzdC1hbmQtbWF5LW5vdC1yZWNvdmVyL9IBAA?hl=en-US&gl=US&ceid=US%3Aen",https://news.google.com/articles/CBMiYGh0dHBzOi8vd3d3LmNib2UuY29tL2luc2lnaHRzL3Bvc3RzL3JlY29yZC1vcHRpb24tZmxvdy1pbi0zLW0tYXMtdHJhZGVycy1wb3NpdGlvbmVkLWZvci1zcGlub2ZmL9IBAA?hl=en-US&gl=US&ceid=US%3Aen,Record Option Flow in 3M as Traders Positioned for Spinoff,"ERROR: Article `download()` failed with HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /articles/CBMiYGh0dHBzOi8vd3d3LmNib2UuY29tL2luc2lnaHRzL3Bvc3RzL3JlY29yZC1vcHRpb24tZmxvdy1pbi0zLW0tYXMtdHJhZGVycy1wb3NpdGlvbmVkLWZvci1zcGlub2ZmL9IBAA?hl=en-US&gl=US&ceid=US%3Aen (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000167117464D0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')) on URL https://news.google.com/articles/CBMiYGh0dHBzOi8vd3d3LmNib2UuY29tL2luc2lnaHRzL3Bvc3RzL3JlY29yZC1vcHRpb24tZmxvdy1pbi0zLW0tYXMtdHJhZGVycy1wb3NpdGlvbmVkLWZvci1zcGlub2ZmL9IBAA?hl=en-US&gl=US&ceid=US%3Aen",https://news.google.com/articles/CBMifWh0dHBzOi8vd3d3LnBjZ2FtZXNpbnNpZGVyLmJpei9qb2ItbmV3cy83MzI5MS9mdXR1cmxhYi1oaXJlcy10b20tc3RvbmUtYXMtZmlyc3QtY2hhaXJtYW4tcG93ZXJ3YXNoLXNpbXVsYXRvci1oaXRzLTNtLXBsYXllcnMv0gEA?hl=en-US&gl=US&ceid=US%3Aen,FuturLab hires Tom Stone as first chairman PowerWash Simulator hits 3m players,"ERROR: Article `download()` failed with HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /articles/CBMifWh0dHBzOi8vd3d3LnBjZ2FtZXNpbnNpZGVyLmJpei9qb2ItbmV3cy83MzI5MS9mdXR1cmxhYi1oaXJlcy10b20tc3RvbmUtYXMtZmlyc3QtY2hhaXJtYW4tcG93ZXJ3YXNoLXNpbXVsYXRvci1oaXRzLTNtLXBsYXllcnMv0gEA?hl=en-US&gl=US&ceid=US%3Aen (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000016711745630>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')) on URL https://news.google.com/articles/CBMifWh0dHBzOi8vd3d3LnBjZ2FtZXNpbnNpZGVyLmJpei9qb2ItbmV3cy83MzI5MS9mdXR1cmxhYi1oaXJlcy10b20tc3RvbmUtYXMtZmlyc3QtY2hhaXJtYW4tcG93ZXJ3YXNoLXNpbXVsYXRvci1oaXRzLTNtLXBsYXllcnMv0gEA?hl=en-US&gl=US&ceid=US%3Aen",https://news.google.com/articles/CBMiWGh0dHBzOi8vaHlwZWJlYXN0LmNvbS8yMDIyLzkvbmlrZS1haXItbWF4LTk3LW1ldGFsbGljLWdvbGQtYmxhY2stZHgwMTM3LTcwMC1yZWxlYXNlLWluZm_SAQA?hl=en-US&gl=US&ceid=US%3Aen,"Nike Air Max 97 ""Metallic Gold"" Release Date","ERROR: Article `download()` failed with HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /articles/CBMiWGh0dHBzOi8vaHlwZWJlYXN0LmNvbS8yMDIyLzkvbmlrZS1haXItbWF4LTk3LW1ldGFsbGljLWdvbGQtYmxhY2stZHgwMTM3LTcwMC1yZWxlYXNlLWluZm_SAQA?hl=en-US&gl=US&ceid=US%3Aen (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000016711745A80>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')) on URL https://news.google.com/articles/CBMiWGh0dHBzOi8vaHlwZWJlYXN0LmNvbS8yMDIyLzkvbmlrZS1haXItbWF4LTk3LW1ldGFsbGljLWdvbGQtYmxhY2stZHgwMTM3LTcwMC1yZWxlYXNlLWluZm_SAQA?hl=en-US&gl=US&ceid=US%3Aen"
+AOS,A O Smith,,,,,,,,,,,,,,,
+ABT,Abbott,https://news.google.com/articles/CBMiV2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjIvMDkvMDYvYnVzaW5lc3MvYWJib3R0LWJhYnktZm9ybXVsYS1sYXdzdWl0cy1qb25lcy1kYXkuaHRtbNIBAA?hl=en-US&gl=US&ceid=US%3Aen,How Abbott Kept Sick Babies From Becoming a Scandal (Published 2022),"ERROR: Article `download()` failed with HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /articles/CBMiV2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjIvMDkvMDYvYnVzaW5lc3MvYWJib3R0LWJhYnktZm9ybXVsYS1sYXdzdWl0cy1qb25lcy1kYXkuaHRtbNIBAA?hl=en-US&gl=US&ceid=US%3Aen (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000016711AC8280>: Failed to establish a new connection: [WinError 10051] A socket operation was attempted to an unreachable network')) on URL https://news.google.com/articles/CBMiV2h0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjIvMDkvMDYvYnVzaW5lc3MvYWJib3R0LWJhYnktZm9ybXVsYS1sYXdzdWl0cy1qb25lcy1kYXkuaHRtbNIBAA?hl=en-US&gl=US&ceid=US%3Aen",https://news.google.com/articles/CBMiS2h0dHBzOi8vd3d3LnRleGFzdHJpYnVuZS5vcmcvMjAyMi8wOS8wOS90ZXhhcy1idXNpbmctbWlncmFudHMtZGMtZW1lcmdlbmN5L9IBAA?hl=en-US&gl=US&ceid=US%3Aen,D.C. Mayor Muriel Bowser declares emergency over Greg Abbott’s busing policy,"ERROR: Article `download()` failed with HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /articles/CBMiS2h0dHBzOi8vd3d3LnRleGFzdHJpYnVuZS5vcmcvMjAyMi8wOS8wOS90ZXhhcy1idXNpbmctbWlncmFudHMtZGMtZW1lcmdlbmN5L9IBAA?hl=en-US&gl=US&ceid=US%3Aen (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000016711AC8FA0>: Failed to establish a new connection: [WinError 10051] A socket operation was attempted to an unreachable network')) on URL https://news.google.com/articles/CBMiS2h0dHBzOi8vd3d3LnRleGFzdHJpYnVuZS5vcmcvMjAyMi8wOS8wOS90ZXhhcy1idXNpbmctbWlncmFudHMtZGMtZW1lcmdlbmN5L9IBAA?hl=en-US&gl=US&ceid=US%3Aen",https://news.google.com/articles/CBMicWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2xlZ2FsL2xpdGlnYXRpb24vbGVhZC1wbGFpbnRpZmZzLWxhd3llcnMtY2hvc2VuLWFiYm90dC1iYWJ5LWZvcm11bGEtbWFzcy10b3J0LTIwMjItMDktMDkv0gEA?hl=en-US&gl=US&ceid=US%3Aen,Lead plaintiffs' lawyers chosen in Abbott baby formula mass tort,"ERROR: Article `download()` failed with HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /articles/CBMicWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2xlZ2FsL2xpdGlnYXRpb24vbGVhZC1wbGFpbnRpZmZzLWxhd3llcnMtY2hvc2VuLWFiYm90dC1iYWJ5LWZvcm11bGEtbWFzcy10b3J0LTIwMjItMDktMDkv0gEA?hl=en-US&gl=US&ceid=US%3Aen (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000016711ACB1C0>: Failed to establish a new connection: [WinError 10051] A socket operation was attempted to an unreachable network')) on URL https://news.google.com/articles/CBMicWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL2xlZ2FsL2xpdGlnYXRpb24vbGVhZC1wbGFpbnRpZmZzLWxhd3llcnMtY2hvc2VuLWFiYm90dC1iYWJ5LWZvcm11bGEtbWFzcy10b3J0LTIwMjItMDktMDkv0gEA?hl=en-US&gl=US&ceid=US%3Aen",https://news.google.com/articles/CBMiUmh0dHBzOi8vZ292LnRleGFzLmdvdi9uZXdzL3Bvc3QvZ292ZXJub3ItYWJib3R0LXByZXNlbnRzLTIwMjItc3Rhci1vZi10ZXhhcy1hd2FyZHPSAQA?hl=en-US&gl=US&ceid=US%3Aen,Governor Abbott Presents 2022 Star Of Texas Awards | Office of the Texas Governor | Greg Abbott,"ERROR: Article `download()` failed with HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /articles/CBMiUmh0dHBzOi8vZ292LnRleGFzLmdvdi9uZXdzL3Bvc3QvZ292ZXJub3ItYWJib3R0LXByZXNlbnRzLTIwMjItc3Rhci1vZi10ZXhhcy1hd2FyZHPSAQA?hl=en-US&gl=US&ceid=US%3Aen (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000016711AC9C00>: Failed to establish a new connection: [WinError 10051] A socket operation was attempted to an unreachable network')) on URL https://news.google.com/articles/CBMiUmh0dHBzOi8vZ292LnRleGFzLmdvdi9uZXdzL3Bvc3QvZ292ZXJub3ItYWJib3R0LXByZXNlbnRzLTIwMjItc3Rhci1vZi10ZXhhcy1hd2FyZHPSAQA?hl=en-US&gl=US&ceid=US%3Aen",https://news.google.com/articles/CBMiZGh0dHBzOi8vd3d3LmFiYWpvdXJuYWwuY29tL25ld3MvYXJ0aWNsZS9ob3ctam9uZXMtZGF5LXByb3RlY3RlZC1hYmJvdHQtbGFicy1pbi1iYWJ5LWZvcm11bGEtbGF3c3VpdHPSAQA?hl=en-US&gl=US&ceid=US%3Aen,How Jones Day protected Abbott Labs in baby formula lawsuits,"ERROR: Article `download()` failed with HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /articles/CBMiZGh0dHBzOi8vd3d3LmFiYWpvdXJuYWwuY29tL25ld3MvYXJ0aWNsZS9ob3ctam9uZXMtZGF5LXByb3RlY3RlZC1hYmJvdHQtbGFicy1pbi1iYWJ5LWZvcm11bGEtbGF3c3VpdHPSAQA?hl=en-US&gl=US&ceid=US%3Aen (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000016711ACBDC0>: Failed to establish a new connection: [WinError 10051] A socket operation was attempted to an unreachable network')) on URL https://news.google.com/articles/CBMiZGh0dHBzOi8vd3d3LmFiYWpvdXJuYWwuY29tL25ld3MvYXJ0aWNsZS9ob3ctam9uZXMtZGF5LXByb3RlY3RlZC1hYmJvdHQtbGFicy1pbi1iYWJ5LWZvcm11bGEtbGF3c3VpdHPSAQA?hl=en-US&gl=US&ceid=US%3Aen"
+ABBV,AbbVie,https://news.google.com/articles/CBMicmh0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vcGhhcm1hL2xvbmctYXdhaXRlZC1mZGEtbm9kLXJldmFuY2Utc2V0LXRha2UtYWJidmllcy1ib3RveC1pdHMtbG9uZ2VyLWxhc3RpbmctZGF4eGlmedIBAA?hl=en-US&gl=US&ceid=US%3Aen,FDA approves Botox Rival Daxxify,"ERROR: Article `download()` failed with HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /articles/CBMicmh0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vcGhhcm1hL2xvbmctYXdhaXRlZC1mZGEtbm9kLXJldmFuY2Utc2V0LXRha2UtYWJidmllcy1ib3RveC1pdHMtbG9uZ2VyLWxhc3RpbmctZGF4eGlmedIBAA?hl=en-US&gl=US&ceid=US%3Aen (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000016710B55660>: Failed to establish a new connection: [WinError 10051] A socket operation was attempted to an unreachable network')) on URL https://news.google.com/articles/CBMicmh0dHBzOi8vd3d3LmZpZXJjZXBoYXJtYS5jb20vcGhhcm1hL2xvbmctYXdhaXRlZC1mZGEtbm9kLXJldmFuY2Utc2V0LXRha2UtYWJidmllcy1ib3RveC1pdHMtbG9uZ2VyLWxhc3RpbmctZGF4eGlmedIBAA?hl=en-US&gl=US&ceid=US%3Aen",https://news.google.com/articles/CBMiTWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjIvMDkvMDgvaGVhbHRoL3dyaW5rbGUtZHJ1Zy1ib3RveC1kYXh4aWZ5LWZkYS5odG1s0gEA?hl=en-US&gl=US&ceid=US%3Aen,FDA Approves Daxxify a New Anti-Wrinkle Drug,"ERROR: Article `download()` failed with HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /articles/CBMiTWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjIvMDkvMDgvaGVhbHRoL3dyaW5rbGUtZHJ1Zy1ib3RveC1kYXh4aWZ5LWZkYS5odG1s0gEA?hl=en-US&gl=US&ceid=US%3Aen (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000016710B549D0>: Failed to establish a new connection: [WinError 10051] A socket operation was attempted to an unreachable network')) on URL https://news.google.com/articles/CBMiTWh0dHBzOi8vd3d3Lm55dGltZXMuY29tLzIwMjIvMDkvMDgvaGVhbHRoL3dyaW5rbGUtZHJ1Zy1ib3RveC1kYXh4aWZ5LWZkYS5odG1s0gEA?hl=en-US&gl=US&ceid=US%3Aen",https://news.google.com/articles/CBMibmh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvbWFkZWxpbmVoYWxwZXJ0LzIwMjIvMDkvMDgvcmV2YW5jZS1zaGFyZXMtanVtcC0xNy1hZnRlci1mZGEtYXBwcm92ZXMtYm90b3gtcml2YWwv0gEA?hl=en-US&gl=US&ceid=US%3Aen,Revance Shares Jump 18% After FDA Approves Botox Rival Daxxify,"ERROR: Article `download()` failed with HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /articles/CBMibmh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvbWFkZWxpbmVoYWxwZXJ0LzIwMjIvMDkvMDgvcmV2YW5jZS1zaGFyZXMtanVtcC0xNy1hZnRlci1mZGEtYXBwcm92ZXMtYm90b3gtcml2YWwv0gEA?hl=en-US&gl=US&ceid=US%3Aen (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000016711AC83A0>: Failed to establish a new connection: [WinError 10051] A socket operation was attempted to an unreachable network')) on URL https://news.google.com/articles/CBMibmh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvbWFkZWxpbmVoYWxwZXJ0LzIwMjIvMDkvMDgvcmV2YW5jZS1zaGFyZXMtanVtcC0xNy1hZnRlci1mZGEtYXBwcm92ZXMtYm90b3gtcml2YWwv0gEA?hl=en-US&gl=US&ceid=US%3Aen",https://news.google.com/articles/CBMiRGh0dHBzOi8vd3d3LmNsaW5pY2FsdHJpYWxzYXJlbmEuY29tL2ZlYXR1cmVzL3JlYWwtd29ybGQtZGF0YS1jaGFyZ2Uv0gEA?hl=en-US&gl=US&ceid=US%3Aen,Getting real: who is leading the real-world data charge with clinical trials?,"ERROR: Article `download()` failed with HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /articles/CBMiRGh0dHBzOi8vd3d3LmNsaW5pY2FsdHJpYWxzYXJlbmEuY29tL2ZlYXR1cmVzL3JlYWwtd29ybGQtZGF0YS1jaGFyZ2Uv0gEA?hl=en-US&gl=US&ceid=US%3Aen (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000016710B57370>: Failed to establish a new connection: [WinError 10051] A socket operation was attempted to an unreachable network')) on URL https://news.google.com/articles/CBMiRGh0dHBzOi8vd3d3LmNsaW5pY2FsdHJpYWxzYXJlbmEuY29tL2ZlYXR1cmVzL3JlYWwtd29ybGQtZGF0YS1jaGFyZ2Uv0gEA?hl=en-US&gl=US&ceid=US%3Aen",https://news.google.com/articles/CBMiX2h0dHBzOi8vdWsuaW52ZXN0aW5nLmNvbS9uZXdzL3N0b2NrLW1hcmtldC1uZXdzL2RlYXRoLWNyb3NzLWxvb21zLW92ZXItYWJidmllLWludmVzdG9ycy0yNzQ2NjYw0gEA?hl=en-US&gl=US&ceid=US%3Aen,Death Cross Looms Over AbbVie Investors By Benzinga,"ERROR: Article `download()` failed with HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /articles/CBMiX2h0dHBzOi8vdWsuaW52ZXN0aW5nLmNvbS9uZXdzL3N0b2NrLW1hcmtldC1uZXdzL2RlYXRoLWNyb3NzLWxvb21zLW92ZXItYWJidmllLWludmVzdG9ycy0yNzQ2NjYw0gEA?hl=en-US&gl=US&ceid=US%3Aen (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000016710B54E80>: Failed to establish a new connection: [WinError 10051] A socket operation was attempted to an unreachable network')) on URL https://news.google.com/articles/CBMiX2h0dHBzOi8vdWsuaW52ZXN0aW5nLmNvbS9uZXdzL3N0b2NrLW1hcmtldC1uZXdzL2RlYXRoLWNyb3NzLWxvb21zLW92ZXItYWJidmllLWludmVzdG9ycy0yNzQ2NjYw0gEA?hl=en-US&gl=US&ceid=US%3Aen"
+ACN,Accenture,https://news.google.com/articles/CBMidWh0dHBzOi8vbmV3c3Jvb20uYWNjZW50dXJlLmNvbS9uZXdzLzIwMjIvYWNjZW50dXJlLWV4cGFuZHMtc3RyYXRlZ3ktY2FwYWJpbGl0aWVzLXdpdGgtYWNxdWlzaXRpb24tb2YtdGhlLWJlYWNvbi1ncm91cNIBAA?hl=en-US&gl=US&ceid=US%3Aen,Accenture Expands Strategy Capabilities with Acquisition of The Beacon Group,"ERROR: Article `download()` failed with HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /articles/CBMidWh0dHBzOi8vbmV3c3Jvb20uYWNjZW50dXJlLmNvbS9uZXdzLzIwMjIvYWNjZW50dXJlLWV4cGFuZHMtc3RyYXRlZ3ktY2FwYWJpbGl0aWVzLXdpdGgtYWNxdWlzaXRpb24tb2YtdGhlLWJlYWNvbi1ncm91cNIBAA?hl=en-US&gl=US&ceid=US%3Aen (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000167120834C0>: Failed to establish a new connection: [WinError 10051] A socket operation was attempted to an unreachable network')) on URL https://news.google.com/articles/CBMidWh0dHBzOi8vbmV3c3Jvb20uYWNjZW50dXJlLmNvbS9uZXdzLzIwMjIvYWNjZW50dXJlLWV4cGFuZHMtc3RyYXRlZ3ktY2FwYWJpbGl0aWVzLXdpdGgtYWNxdWlzaXRpb24tb2YtdGhlLWJlYWNvbi1ncm91cNIBAA?hl=en-US&gl=US&ceid=US%3Aen",https://news.google.com/articles/CBMiWGh0dHBzOi8vd3d3LmNvbnN1bHRpbmcudXMvbmV3cy84MTI2L2FjY2VudHVyZS1hZGRzLXRoZS1iZWFjb24tZ3JvdXAtdG8tc3RyYXRlZ3ktcHJhY3RpY2XSAVxodHRwczovL3d3dy5jb25zdWx0aW5nLnVzL25ld3MvYW1wLzgxMjYvYWNjZW50dXJlLWFkZHMtdGhlLWJlYWNvbi1ncm91cC10by1zdHJhdGVneS1wcmFjdGljZQ?hl=en-US&gl=US&ceid=US%3Aen,Accenture adds The Beacon Group to strategy practice,"ERROR: Article `download()` failed with HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /articles/CBMiWGh0dHBzOi8vd3d3LmNvbnN1bHRpbmcudXMvbmV3cy84MTI2L2FjY2VudHVyZS1hZGRzLXRoZS1iZWFjb24tZ3JvdXAtdG8tc3RyYXRlZ3ktcHJhY3RpY2XSAVxodHRwczovL3d3dy5jb25zdWx0aW5nLnVzL25ld3MvYW1wLzgxMjYvYWNjZW50dXJlLWFkZHMtdGhlLWJlYWNvbi1ncm91cC10by1zdHJhdGVneS1wcmFjdGljZQ?hl=en-US&gl=US&ceid=US%3Aen (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000016712081240>: Failed to establish a new connection: [WinError 10051] A socket operation was attempted to an unreachable network')) on URL https://news.google.com/articles/CBMiWGh0dHBzOi8vd3d3LmNvbnN1bHRpbmcudXMvbmV3cy84MTI2L2FjY2VudHVyZS1hZGRzLXRoZS1iZWFjb24tZ3JvdXAtdG8tc3RyYXRlZ3ktcHJhY3RpY2XSAVxodHRwczovL3d3dy5jb25zdWx0aW5nLnVzL25ld3MvYW1wLzgxMjYvYWNjZW50dXJlLWFkZHMtdGhlLWJlYWNvbi1ncm91cC10by1zdHJhdGVneS1wcmFjdGljZQ?hl=en-US&gl=US&ceid=US%3Aen",https://news.google.com/articles/CBMid2h0dHBzOi8vd3d3LmNoYW5uZWxmdXR1cmVzLmNvbS9tZXJnZXJzLWFjcXVpc2l0aW9ucy9hY2NlbnR1cmUtbS1hLWRlYWxzLWZ1ZWwtZW50ZXJwcmlzZS1kaWdpdGFsLXRyYW5zZm9ybWF0aW9uLXN0cmF0ZWd50gEA?hl=en-US&gl=US&ceid=US%3Aen,Accenture M&A Deals Fuel Enterprise Digital Transformation Strategy,"ERROR: Article `download()` failed with HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /articles/CBMid2h0dHBzOi8vd3d3LmNoYW5uZWxmdXR1cmVzLmNvbS9tZXJnZXJzLWFjcXVpc2l0aW9ucy9hY2NlbnR1cmUtbS1hLWRlYWxzLWZ1ZWwtZW50ZXJwcmlzZS1kaWdpdGFsLXRyYW5zZm9ybWF0aW9uLXN0cmF0ZWd50gEA?hl=en-US&gl=US&ceid=US%3Aen (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000016712080460>: Failed to establish a new connection: [WinError 10051] A socket operation was attempted to an unreachable network')) on URL https://news.google.com/articles/CBMid2h0dHBzOi8vd3d3LmNoYW5uZWxmdXR1cmVzLmNvbS9tZXJnZXJzLWFjcXVpc2l0aW9ucy9hY2NlbnR1cmUtbS1hLWRlYWxzLWZ1ZWwtZW50ZXJwcmlzZS1kaWdpdGFsLXRyYW5zZm9ybWF0aW9uLXN0cmF0ZWd50gEA?hl=en-US&gl=US&ceid=US%3Aen",https://news.google.com/articles/CBMiaWh0dHBzOi8vd3d3LmxlZGdlcmluc2lnaHRzLmNvbS9hY2NlbnR1cmUtb25ib2FyZGVkLTE1MDAwMC1uZXctc3RhZmYtaW4tdGhlLW1ldGF2ZXJzZS1kdXJpbmctdGhlLXBhbmRlbWljL9IBAA?hl=en-US&gl=US&ceid=US%3Aen,Accenture onboarded 150000 new staff in the metaverse during the pandemic,"ERROR: Article `download()` failed with HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /articles/CBMiaWh0dHBzOi8vd3d3LmxlZGdlcmluc2lnaHRzLmNvbS9hY2NlbnR1cmUtb25ib2FyZGVkLTE1MDAwMC1uZXctc3RhZmYtaW4tdGhlLW1ldGF2ZXJzZS1kdXJpbmctdGhlLXBhbmRlbWljL9IBAA?hl=en-US&gl=US&ceid=US%3Aen (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000016712083B50>: Failed to establish a new connection: [WinError 10051] A socket operation was attempted to an unreachable network')) on URL https://news.google.com/articles/CBMiaWh0dHBzOi8vd3d3LmxlZGdlcmluc2lnaHRzLmNvbS9hY2NlbnR1cmUtb25ib2FyZGVkLTE1MDAwMC1uZXctc3RhZmYtaW4tdGhlLW1ldGF2ZXJzZS1kdXJpbmctdGhlLXBhbmRlbWljL9IBAA?hl=en-US&gl=US&ceid=US%3Aen",https://news.google.com/articles/CBMia2h0dHBzOi8vd3d3LmNuYmMuY29tL3ZpZGVvLzIwMjIvMDkvMDkvYXNraW5nLWZvci1oZWxwLWlzLWEtc3RyZW5ndGgtbm90LWEtd2Vha25lc3MtYWNjZW50dXJlLWV4ZWMtc2F5cy5odG1s0gEA?hl=en-US&gl=US&ceid=US%3Aen,Asking for help is a strength not a weakness Accenture exec says,"ERROR: Article `download()` failed with HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /articles/CBMia2h0dHBzOi8vd3d3LmNuYmMuY29tL3ZpZGVvLzIwMjIvMDkvMDkvYXNraW5nLWZvci1oZWxwLWlzLWEtc3RyZW5ndGgtbm90LWEtd2Vha25lc3MtYWNjZW50dXJlLWV4ZWMtc2F5cy5odG1s0gEA?hl=en-US&gl=US&ceid=US%3Aen (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000016712082650>: Failed to establish a new connection: [WinError 10051] A socket operation was attempted to an unreachable network')) on URL https://news.google.com/articles/CBMia2h0dHBzOi8vd3d3LmNuYmMuY29tL3ZpZGVvLzIwMjIvMDkvMDkvYXNraW5nLWZvci1oZWxwLWlzLWEtc3RyZW5ndGgtbm90LWEtd2Vha25lc3MtYWNjZW50dXJlLWV4ZWMtc2F5cy5odG1s0gEA?hl=en-US&gl=US&ceid=US%3Aen"
+ADBE,Adobe,https://news.google.com/articles/CBMiRWh0dHBzOi8vd3d3Lm5lb3dpbi5uZXQvc29mdHdhcmUvYWRvYmUtYWNyb2JhdC1yZWFkZXItZGMtMjAyMjAwMjIwMjEyL9IBQGh0dHBzOi8vd3d3Lm5lb3dpbi5uZXQvYW1wL2Fkb2JlLWFjcm9iYXQtcmVhZGVyLWRjLTIwMjIwMDIyMDIxMi8?hl=en-US&gl=US&ceid=US%3Aen,Adobe Acrobat Reader DC 2022.002.20212,"ERROR: Article `download()` failed with HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /articles/CBMiRWh0dHBzOi8vd3d3Lm5lb3dpbi5uZXQvc29mdHdhcmUvYWRvYmUtYWNyb2JhdC1yZWFkZXItZGMtMjAyMjAwMjIwMjEyL9IBQGh0dHBzOi8vd3d3Lm5lb3dpbi5uZXQvYW1wL2Fkb2JlLWFjcm9iYXQtcmVhZGVyLWRjLTIwMjIwMDIyMDIxMi8?hl=en-US&gl=US&ceid=US%3Aen (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000016711B03EB0>: Failed to establish a new connection: [WinError 10051] A socket operation was attempted to an unreachable network')) on URL https://news.google.com/articles/CBMiRWh0dHBzOi8vd3d3Lm5lb3dpbi5uZXQvc29mdHdhcmUvYWRvYmUtYWNyb2JhdC1yZWFkZXItZGMtMjAyMjAwMjIwMjEyL9IBQGh0dHBzOi8vd3d3Lm5lb3dpbi5uZXQvYW1wL2Fkb2JlLWFjcm9iYXQtcmVhZGVyLWRjLTIwMjIwMDIyMDIxMi8?hl=en-US&gl=US&ceid=US%3Aen",https://news.google.com/articles/CBMijgFodHRwczovL3d3dy5yZWRsYW5kc2NvbW11bml0eW5ld3MuY29tL2hpc3RvcnkvZmlyc3Qtd2hpdGUtc2V0dGxlci1zLWhlcml0YWdlLXRvLWJlLXByZXNlcnZlZC9hcnRpY2xlXzA3Y2U1MzQ2LTJmOWEtMTFlZC04MzM5LTZmMmE5MTVjMmVmYS5odG1s0gEA?hl=en-US&gl=US&ceid=US%3Aen,First white settler's heritage to be preserved | History | redlandscommunitynews.com,"ERROR: Article `download()` failed with HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /articles/CBMijgFodHRwczovL3d3dy5yZWRsYW5kc2NvbW11bml0eW5ld3MuY29tL2hpc3RvcnkvZmlyc3Qtd2hpdGUtc2V0dGxlci1zLWhlcml0YWdlLXRvLWJlLXByZXNlcnZlZC9hcnRpY2xlXzA3Y2U1MzQ2LTJmOWEtMTFlZC04MzM5LTZmMmE5MTVjMmVmYS5odG1s0gEA?hl=en-US&gl=US&ceid=US%3Aen (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000016711B03B50>, 'Connection to news.google.com timed out. (connect timeout=7)')) on URL https://news.google.com/articles/CBMijgFodHRwczovL3d3dy5yZWRsYW5kc2NvbW11bml0eW5ld3MuY29tL2hpc3RvcnkvZmlyc3Qtd2hpdGUtc2V0dGxlci1zLWhlcml0YWdlLXRvLWJlLXByZXNlcnZlZC9hcnRpY2xlXzA3Y2U1MzQ2LTJmOWEtMTFlZC04MzM5LTZmMmE5MTVjMmVmYS5odG1s0gEA?hl=en-US&gl=US&ceid=US%3Aen",https://news.google.com/articles/CBMiYWh0dHBzOi8vd3d3LmxpZmV3aXJlLmNvbS9hZG9iZXMtY2FtZXJhLWFwcC1zdGlsbC1jYW50LWdpdmUtdGhlLXByb3Mtd2hhdC1yZWFsbHktdGhleS13YW50LTY1NDQyNzjSAQA?hl=en-US&gl=US&ceid=US%3Aen,Adobe's Camera App Still Can't Give the Pros What Really They Want,"ERROR: Article `download()` failed with HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /articles/CBMiYWh0dHBzOi8vd3d3LmxpZmV3aXJlLmNvbS9hZG9iZXMtY2FtZXJhLWFwcC1zdGlsbC1jYW50LWdpdmUtdGhlLXByb3Mtd2hhdC1yZWFsbHktdGhleS13YW50LTY1NDQyNzjSAQA?hl=en-US&gl=US&ceid=US%3Aen (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000016710E6C730>: Failed to establish a new connection: [WinError 10051] A socket operation was attempted to an unreachable network')) on URL https://news.google.com/articles/CBMiYWh0dHBzOi8vd3d3LmxpZmV3aXJlLmNvbS9hZG9iZXMtY2FtZXJhLWFwcC1zdGlsbC1jYW50LWdpdmUtdGhlLXByb3Mtd2hhdC1yZWFsbHktdGhleS13YW50LTY1NDQyNzjSAQA?hl=en-US&gl=US&ceid=US%3Aen",https://news.google.com/articles/CBMiPmh0dHBzOi8vd3d3Lm5wcy5nb3YvdHVtYS9sZWFybi9oaXN0b3J5Y3VsdHVyZS9wcmVzZXJ2YXRpb24uaHRt0gEA?hl=en-US&gl=US&ceid=US%3Aen,Preservation - Tumacácori National Historical Park (U.S,"ERROR: Article `download()` failed with HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /articles/CBMiPmh0dHBzOi8vd3d3Lm5wcy5nb3YvdHVtYS9sZWFybi9oaXN0b3J5Y3VsdHVyZS9wcmVzZXJ2YXRpb24uaHRt0gEA?hl=en-US&gl=US&ceid=US%3Aen (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000016710E6CF70>: Failed to establish a new connection: [WinError 10051] A socket operation was attempted to an unreachable network')) on URL https://news.google.com/articles/CBMiPmh0dHBzOi8vd3d3Lm5wcy5nb3YvdHVtYS9sZWFybi9oaXN0b3J5Y3VsdHVyZS9wcmVzZXJ2YXRpb24uaHRt0gEA?hl=en-US&gl=US&ceid=US%3Aen",https://news.google.com/articles/CBMigQFodHRwczovL3d3dy5zZGNleGVjLmNvbS9zb2Z0d2FyZS10ZWNobm9sb2d5L2FydGljbGUvMjI0NDQ2OTIvaW50ZWxsaXNoaWZ0LXNvbHZpbmctc3VwcGx5LWNoYWluLWNoYWxsZW5nZXMtdXNpbmctYWktYW5kLXRlbGVtYXRpY3PSAQA?hl=en-US&gl=US&ceid=US%3Aen,Solving Supply Chain Challenges Using AI and Telematics,"ERROR: Article `download()` failed with HTTPSConnectionPool(host='www.sdcexec.com', port=443): Max retries exceeded with url: /software-technology/article/22444692/intellishift-solving-supply-chain-challenges-using-ai-and-telematics (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000016710E6DE40>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')) on URL https://news.google.com/articles/CBMigQFodHRwczovL3d3dy5zZGNleGVjLmNvbS9zb2Z0d2FyZS10ZWNobm9sb2d5L2FydGljbGUvMjI0NDQ2OTIvaW50ZWxsaXNoaWZ0LXNvbHZpbmctc3VwcGx5LWNoYWluLWNoYWxsZW5nZXMtdXNpbmctYWktYW5kLXRlbGVtYXRpY3PSAQA?hl=en-US&gl=US&ceid=US%3Aen"
+AMD,Advanced Micro Devices,https://news.google.com/articles/CBMiY2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL3RlY2hub2xvZ3kvdXMtYmFuLW52aWRpYS1hbWQtY2hpcHMtc2Vlbi1ib29zdGluZy1jaGluZXNlLXJpdmFscy0yMDIyLTA5LTA4L9IBAA?hl=en-US&gl=US&ceid=US%3Aen,U.S. ban on Nvidia AMD chips seen boosting Chinese rivals,"ERROR: Article `download()` failed with HTTPSConnectionPool(host='www.reuters.com', port=443): Max retries exceeded with url: /technology/us-ban-nvidia-amd-chips-seen-boosting-chinese-rivals-2022-09-08/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000016710629E70>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')) on URL https://news.google.com/articles/CBMiY2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL3RlY2hub2xvZ3kvdXMtYmFuLW52aWRpYS1hbWQtY2hpcHMtc2Vlbi1ib29zdGluZy1jaGluZXNlLXJpdmFscy0yMDIyLTA5LTA4L9IBAA?hl=en-US&gl=US&ceid=US%3Aen",https://news.google.com/articles/CBMiUGh0dHBzOi8vY2Euc3R5bGUueWFob28uY29tL2ZpbmFuY2UvbmV3cy9hbmFseXNpcy11LWJhbi1udmlkaWEtYW1kLTE3MDQzNzI1MC5odG1s0gEA?hl=en-US&gl=US&ceid=US%3Aen,Analysis-U.S. ban on Nvidia AMD chips seen boosting Chinese rivals,"By Jane Lanhee Lee and Stephen Nellis
+
+SAN FRANCISCO (Reuters) - The U.S. ban on exports to China of Nvidia and AMD's flagship artificial intelligence chips will create new business opportunities for domestic startups jockeying for a piece of China's fast-growing data center chip market industry executives and analysts told Reuters.
+
+The ban is part of a longer effort by the U.S. government to crack down on U.S. contributions to Chinese artificial intelligence and high-performance computing or supercomputing. Last year U.S. officials put seven Chinese supercomputing entities on an economic blacklist and last week they banned Nvidia and AMD's chips from export to China ""to keep advanced technologies out of the wrong hands.""
+
+On Thursday an independent group that measures artificial intelligence speeds published new data that can help back up the claims of little-known Chinese startup Shanghai Biren Intelligent Technology Co that its latest chip has bested the performance of one of the high-end chips banned by the U.S. government.
+
+The milestone is viewed as an opening for Chinese domestic chip companies to service Chinese customers cut off from access to U.S. chips experts said.
+
+""The benchmarks are broadly representative of image processing and natural language processing which are two fairly significant AI workloads"" said David Kanter a founder of MLCommons the group that publishes the results. ""It's pretty impressive.""
+
+The promising performance rankings come after years of financing and development from Chinese startups and venture firms including several investors from the U.S. to create domestic alternatives to Nvidia Corp and Advanced Micro Devices Inc chips.
+
+The rise of AI chip startups in China could upset plans by the U.S. to slow down China's development of computing tools needed for military applications such as designing nuclear weapons. Those tasks often involve running computer simulations with high-precision - something the Nvidia and AMD chips excel at.
+
+Biren founded by alumni of Chinese tech giant Alibaba and Nvidia has publicly said it would focus on selling its BR100 chip to private data center and cloud customers. The company says it has no plans to sell to the military.
+
+Jack Dongarra a distinguished professor of computer science who helps lead the Top500 ranking of the fastest supercomputers says he's seen this scenario play out before. ""The U.S. embargoed Intel chips from going to specific places in China that are and were developing high performance computers"" he said. ""The result was that China designed its chips for its supercomputers.""
+
+CCS Insight chip analyst Wayne Lam said Biren could be in for a ""success story having demonstrated this capability and now having this business opportunity fall on them"". He said Chinese computing groups will likely ""have to re-tinker their systems and figure out how to build for something that they can get.""
+
+Still some analysts and U.S. chip executives say to gain AI market share companies need more than just a fast chip. They need to build a software ecosystem for the chips that can compete with Nvidia's software platform called CUDA which dominates the AI market.
+
+""New Chinese firms in the space will have to prove that they are reliable can iterate hardware at the cutting edge... And then offer a compelling software ecosystem"" said Paul Triolo senior vice president for China at strategy firm Albright Stonebridge Group.
+
+Also active in developing Nvidia alternatives are Chinese firms like Cambricon Alibaba Group's PingTouGe Iluvatar CoreX Denglin Technology Moore Threads Vastai Technologies and MetaX.
+
+Data firm PitchBook shows that those top startups alone have raised $2.5 billion in recent years including from Shanghai government-backed fund Shanghai Guosheng Group and Hillhouse Capital which counts several U.S. pension funds and Yale University as limited partners. Other investors include the Chinese entities of big-name Silicon Valley venture capital firms like Sequoia China and Lightspeed China Partners.
+
+Those investments have caused concern for some who are pushing to limit where U.S. capital can be invested overseas said Matt Ocko managing partner of Silicon Valley venture capital firm DCVC. His firm is a major investor in companies that work closely with the U.S. defense and intelligence communities. ""It's not acceptable for major pools of U.S. capital to fund AI chips and other PRC (Chinese) military tech that threatens U.S. national security.""
+
+(Reporting By Jane Lanhee Lee and Stephen Nellis Editing by Kenneth Li and Christopher Cushing)",https://news.google.com/articles/CBMiSGh0dHBzOi8vd3d3Lm1zY2kuY29tL3d3dy9xdWljay10YWtlL2dhbW1hYS1hcy10aGUtbmV3LWZhYW5nLS8wMzM3ODA2NzQ3OdIBAA?hl=en-US&gl=US&ceid=US%3Aen,GAMMAA as the New FAANG?,"ERROR: Article `download()` failed with HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /articles/CBMiSGh0dHBzOi8vd3d3Lm1zY2kuY29tL3d3dy9xdWljay10YWtlL2dhbW1hYS1hcy10aGUtbmV3LWZhYW5nLS8wMzM3ODA2NzQ3OdIBAA?hl=en-US&gl=US&ceid=US%3Aen (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000016710629690>: Failed to establish a new connection: [WinError 10051] A socket operation was attempted to an unreachable network')) on URL https://news.google.com/articles/CBMiSGh0dHBzOi8vd3d3Lm1zY2kuY29tL3d3dy9xdWljay10YWtlL2dhbW1hYS1hcy10aGUtbmV3LWZhYW5nLS8wMzM3ODA2NzQ3OdIBAA?hl=en-US&gl=US&ceid=US%3Aen",https://news.google.com/articles/CBMiP2h0dHBzOi8vd3d3LnRoZWNyaW1zb24uY29tL2FydGljbGUvMjAyMi85LzgvMTNmLXNlY29uZC1xdWFydGVyL9IBAA?hl=en-US&gl=US&ceid=US%3Aen,Harvard Bolsters Investments in Google Semiconductor Industry | News,"ERROR: Article `download()` failed with HTTPSConnectionPool(host='www.thecrimson.com', port=443): Max retries exceeded with url: /article/2022/9/8/13f-second-quarter/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001671062A860>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')) on URL https://news.google.com/articles/CBMiP2h0dHBzOi8vd3d3LnRoZWNyaW1zb24uY29tL2FydGljbGUvMjAyMi85LzgvMTNmLXNlY29uZC1xdWFydGVyL9IBAA?hl=en-US&gl=US&ceid=US%3Aen",https://news.google.com/articles/CBMiQ2h0dHBzOi8vd3d3LnRhaXBlaXRpbWVzLmNvbS9OZXdzL2Jpei9hcmNoaXZlcy8yMDIyLzA5LzA4LzIwMDM3ODQ5MjnSAQA?hl=en-US&gl=US&ceid=US%3Aen,TSMC stock falls on reports of client order cuts,"ERROR: Article `download()` failed with HTTPSConnectionPool(host='www.taipeitimes.com', port=443): Max retries exceeded with url: /News/biz/archives/2022/09/08/2003784929 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001671062A320>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')) on URL https://news.google.com/articles/CBMiQ2h0dHBzOi8vd3d3LnRhaXBlaXRpbWVzLmNvbS9OZXdzL2Jpei9hcmNoaXZlcy8yMDIyLzA5LzA4LzIwMDM3ODQ5MjnSAQA?hl=en-US&gl=US&ceid=US%3Aen"
+AES,AES Corporation,https://news.google.com/articles/CBMiZmh0dHBzOi8vd3d3LmVuZXJneS1zdG9yYWdlLm5ld3MvYWVzLWJyaW5ncy1zZWNvbmQtcG9ydGlvbi1vZi05MDhtd2gtYmVzcy1jb21wbGV4LWluLWNhbGlmb3JuaWEtb25saW5lL9IBAA?hl=en-US&gl=US&ceid=US%3Aen,AES brings second portion of 908MWh BESS complex in California online,"ERROR: Article `download()` failed with HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /articles/CBMiZmh0dHBzOi8vd3d3LmVuZXJneS1zdG9yYWdlLm5ld3MvYWVzLWJyaW5ncy1zZWNvbmQtcG9ydGlvbi1vZi05MDhtd2gtYmVzcy1jb21wbGV4LWluLWNhbGlmb3JuaWEtb25saW5lL9IBAA?hl=en-US&gl=US&ceid=US%3Aen (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000016712842410>: Failed to establish a new connection: [WinError 10051] A socket operation was attempted to an unreachable network')) on URL https://news.google.com/articles/CBMiZmh0dHBzOi8vd3d3LmVuZXJneS1zdG9yYWdlLm5ld3MvYWVzLWJyaW5ncy1zZWNvbmQtcG9ydGlvbi1vZi05MDhtd2gtYmVzcy1jb21wbGV4LWluLWNhbGlmb3JuaWEtb25saW5lL9IBAA?hl=en-US&gl=US&ceid=US%3Aen",https://news.google.com/articles/CBMib2h0dHBzOi8vd3d3LnBvd2VybWFnLmNvbS90d28taWxsaW5vaXMtZ2FzLXBvd2VyLXBsYW50cy1hY3F1aXJlZC1ieS1wdWJsaWMtYmVuZWZpdC1jb3Jwb3JhdGlvbi1lYXJ0aHJpc2UtZW5lcmd5L9IBAA?hl=en-US&gl=US&ceid=US%3Aen,Two Illinois Gas Power Plants Acquired by Public Benefit Corporation Earthrise Energy,"ERROR: Article `download()` failed with HTTPSConnectionPool(host='www.powermag.com', port=443): Max retries exceeded with url: /two-illinois-gas-power-plants-acquired-by-public-benefit-corporation-earthrise-energy/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000016712843220>, 'Connection to www.powermag.com timed out. (connect timeout=7)')) on URL https://news.google.com/articles/CBMib2h0dHBzOi8vd3d3LnBvd2VybWFnLmNvbS90d28taWxsaW5vaXMtZ2FzLXBvd2VyLXBsYW50cy1hY3F1aXJlZC1ieS1wdWJsaWMtYmVuZWZpdC1jb3Jwb3JhdGlvbi1lYXJ0aHJpc2UtZW5lcmd5L9IBAA?hl=en-US&gl=US&ceid=US%3Aen",https://news.google.com/articles/CBMiZGh0dHBzOi8vd3d3LmVuZXJneS1zdG9yYWdlLm5ld3MvY2FsaWZvcm5pYXMtZmxlZXQtb2YtYmF0dGVyeS1zdG9yYWdlLXdvcmtpbmctdG8tYXZlcnQtZW5lcmd5LWNyaXNpcy_SAQA?hl=en-US&gl=US&ceid=US%3Aen,Battery storage sets records in California heatwave energy crisis,"CAISO activates the alerts to manage the shortfall of electricity supply versus demand asking customers to turn down their power usage and bringing as many resources as it can to ramp up supply.
+
+For example in Mid-August a Flex Alert signified the first time that a network of 2500 Tesla Powerwalls aggregated into a virtual power plant (VPP) in the service territory of California investor-owned utility (IOU) Pacific Gas and Electric (PG&E) delivered up to 16.5MW of stored solar energy to the grid.
+
+While in 2020 utilities enacted rolling blackouts in some areas to protect the grid and last year’s summer period also saw Flex Alerts activated no one has been under any illusion that margins could continue to be tight. State Governor Gavin Newsom made moves to expedite battery storage deployment through cutting red tape as a State of Emergency was declared last year.
+
+CAISO had said prior to the summer that it expected to have 4GW of battery storage capacity available mostly from grid-scale four-hour duration battery energy storage systems (BESS) it hasn’t quite made it that far. However it is thought to be close to that mark especially with a few big systems coming online in the past few weeks like a pair of projects from AES Corporation totaling 227MW/908MWh.
+
+The past few days have seen that fleet in action in a big way.
+
+On 6 September Jill Anderson executive VP for operations at another big utility Southern California Edison tweeted that it was “incredible” to see battery storage set “record after record of grid support during this intense heatwave”.
+
+The most extreme mismatch between supply and demand generally comes between 7pm and 9pm in the evening peak. Anderson posted a graph from CAISO showing that around 7pm on that day well over 3000MW of battery capacity was discharging to the grid.
+
+“Just now we saw batteries discharging more than double last year & orders of magnitude more than what was available to the grid in 2020” Anderson tweeted.
+
+The day before (5 September) CAISO had “barely made it through” without rolling blackouts and had relied heavily on battery storage as well as more than 8GW of imports Ryan Sweezey a principal analyst at Wood Mackenzie Power & Renewables said in a LinkedIn post.
+
+The state may not always be able to rely on imports today or in the future Sweezey said “but the storage is here to stay” noting that while on 14 August 2020 when rolling blackouts did occur storage discharge between a two-hour evening peak window was just 50MW versus around 2.5GW in the same period on 5 September 2022.
+
+Contribution in California set to grow – and get smarter?
+
+In fact on CAISO’s ‘Today’s Outlook’ page on its website users can track the status of demand supply emissions and prices looking at current statuses as well as trends. It makes for fascinating if unapologetically nerdy viewing.
+
+That shows that while the relative contribution of batteries may be small compared to say renewables large hydro natural gas and imports from other states its role as a dispatchable resource is an important one in closing that supply-demand gap.
+
+It’s not just large-scale batteries either as that earlier Tesla reference showed. In 2021 smart energy storage and software provider Stem Inc said it dispatched more than 500MWh from customers’ commercial and industrial (C&I) battery systems enrolled in grid services programmes during June heatwaves. Stem’s fleet isn’t just in California but most of it is.
+
+At the end of August this year residential solar PV and energy storage installer and leasing company Sunrun sent media including Energy-Storage.news a press release claiming that it was dispatching more than 80MW of stored battery capacity from customers’ homes into the CAISO grid every day.
+
+That’s more than several of California’s fossil fuel peaker plants and an increase of more than 60% from 2021 the company said.
+
+Despite the increasingly important role of batteries there are still some inefficiencies in market design to resolve that can help them contribute even more.
+
+Cody Hill an engineer and senior VP at energy storage developer and operator Rev Renewables noted that one of Rev Renewables’ battery projects dispatched at a time of day when day-ahead market caps rose above a threshold.
+
+However the more serious need for energy came later than that by which time the 125MW system was already discharged and unable to contribute Hill tweeted.
+
+An article for Vol.31 of our journal PV Tech Power published in the second quarter of this year looked at the role large-scale battery storage plays on the grid today with reference to key battery storage market regions like California’s CAISO Texas’ ERCOT grid the UK and Ireland Western Europe and Australia.",,,,,,
+AFL,Aflac,https://news.google.com/articles/CBMiY2h0dHBzOi8vc2lja2xlY2VsbGFuZW1pYW5ld3MuY29tL25ld3MvYWZsYWMtZHVjay1yb2JvdHMtZGVsaXZlcmVkLXlvdW5nLXNpY2tsZS1jZWxsLXBhdGllbnRzLW1pYW1pL9IBAA?hl=en-US&gl=US&ceid=US%3Aen,'Aflac Duck' Robots Delivered to Young Sickle Cell Patients in...,"To help bring awareness this month to sickle cell disease (SCD) and childhood cancers the supplemental insurance provider Aflac recently engaged young patients with those disorders at Nicklaus Children’s Hospital in south Florida through its My Special Aflac Duck social robot program.
+
+September is National Sickle Cell Awareness Month as well as Childhood Cancer Awareness Month. To mark both initiatives and raise awareness about these conditions Aflac and Nicklaus hosted a special event during which the robot ducks were delivered and unboxed.
+
+Several hospitalized children received the cuddly life-sized robotic companions as gifts. The robot ducks are designed to play interact and provide comfort and relief to children who are living with SCD and cancer.
+
+Recommended Reading Researchers to Study How the Brain Is Affected by Sickle Cell Disease
+
+“Aflac is a committed ally to children with cancer and blood disorders and we continue to make it our mission to expand the reach of My Special Aflac Duck to help bring young patients and their families comfort and joy in the moments they need it most” Ines Rodriguez Gutzmer vice president of strategic communications at Aflac said in a press release.
+
+“We are proud to provide this award-winning offering free of charge to Miami-based families facing these diseases and to see the smiles on their faces as they welcome a new friend on their journey” Gutzmer said.
+
+The social robot debuted in 2018 as part of Aflac’s 27-year $161 million commitment to pediatric blood disorders including SCD as well as childhood cancers. Since then Aflac has donated more than 17000 robots to some 450 hospitals and organizations. Healthcare professionals and nonprofit groups can order the ducks for free for sickle cell or cancer patients ages 3 and older.
+
+The robot was created originally to help young cancer patients. Earlier this year Aflac expanded the program to include children with SCD which affects more than 100000 U.S. residents. Two years ago Aflac worked with the duck’s creator Sproutel to collaborate with patients parents and healthcare providers in a pilot project to modify the robot for SCD patients. Sproutel is a patient-centered research and development company.
+
+Because children with SCD are commonly affected by temperature changes those modifications include the addition of a blanket upon which children can draw with a (provided) water-soluble marker. Other adaptations include medical “play” accessories and an interactive app that homes in on art therapy and topics such as hydration that help children with disease management.
+
+More Aflac Duck features
+
+The duck also features customizable soundscapes smart sensors that promote touch and light and sound awareness and seven “feeling” emoji discs the young patients can use to express emotions.
+
+“We are honored to join forces with Aflac and take part in the My Special Aflac Duck program as a way to further support our young patients receiving treatment for cancer and sickle cell disease” said Jennifer McCafferty-Fernandez PhD senior vice president of external affairs and chief of staff at Nicklaus Children’s Health System. “We know these fun and cuddly companions are sure to enhance the care experience for the children and families we serve.”
+
+In May ducks were delivered to SCD patients at the Children’s Regional Hospital at Cooper in New Jersey. The following month Aflac gave $100000 to Children’s National Hospital in Washington D.C. to support SCD research.",https://news.google.com/articles/CBMiTGh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9zcGVjaWFsLWFmbGFjLWR1Y2staGVscHMtYnJpbmctMTMwMDA4MzU2Lmh0bWzSAQA?hl=en-US&gl=US&ceid=US%3Aen,My Special Aflac Duck® Helps Bring Joy to Young Patients Diagnosed With Cancer and Sickle Cell Disease at ...,ERROR: Article `download()` failed with 404 Client Error: Not Found for url: https://finance.yahoo.com/news/special-aflac-duck-helps-bring-130008356.html on URL https://news.google.com/articles/CBMiTGh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9zcGVjaWFsLWFmbGFjLWR1Y2staGVscHMtYnJpbmctMTMwMDA4MzU2Lmh0bWzSAQA?hl=en-US&gl=US&ceid=US%3Aen,,,,,,,,,
+A,Agilent Technologies,https://news.google.com/articles/CBMiwgFodHRwczovL3d3dy5wcm5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2VzL3R1bmFibGUtbGFzZXItbWFya2V0LTMwLW9mLWdyb3d0aC10by1vcmlnaW5hdGUtZnJvbS1hcGFjLWRyaXZlbi1ieS10aGUtZ3Jvd3RoLWluLXRoZS1hZG9wdGlvbi1vZi1uYW5vdGVjaG5vbG9neS1hY3Jvc3Mtc2VjdG9ycy0tLXRlY2huYXZpby0zMDE2MjAxNTcuaHRtbNIBAA?hl=en-US&gl=US&ceid=US%3Aen,Tunable Laser Market: 30% of Growth to Originate from APAC Driven by the growth in the Adoption of Nanotechnology ...,"ERROR: Article `download()` failed with HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /articles/CBMiwgFodHRwczovL3d3dy5wcm5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2VzL3R1bmFibGUtbGFzZXItbWFya2V0LTMwLW9mLWdyb3d0aC10by1vcmlnaW5hdGUtZnJvbS1hcGFjLWRyaXZlbi1ieS10aGUtZ3Jvd3RoLWluLXRoZS1hZG9wdGlvbi1vZi1uYW5vdGVjaG5vbG9neS1hY3Jvc3Mtc2VjdG9ycy0tLXRlY2huYXZpby0zMDE2MjAxNTcuaHRtbNIBAA?hl=en-US&gl=US&ceid=US%3Aen (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000016710E6C790>: Failed to establish a new connection: [WinError 10051] A socket operation was attempted to an unreachable network')) on URL https://news.google.com/articles/CBMiwgFodHRwczovL3d3dy5wcm5ld3N3aXJlLmNvbS9uZXdzLXJlbGVhc2VzL3R1bmFibGUtbGFzZXItbWFya2V0LTMwLW9mLWdyb3d0aC10by1vcmlnaW5hdGUtZnJvbS1hcGFjLWRyaXZlbi1ieS10aGUtZ3Jvd3RoLWluLXRoZS1hZG9wdGlvbi1vZi1uYW5vdGVjaG5vbG9neS1hY3Jvc3Mtc2VjdG9ycy0tLXRlY2huYXZpby0zMDE2MjAxNTcuaHRtbNIBAA?hl=en-US&gl=US&ceid=US%3Aen",,,,,,,,,,,,
+APD,Air Products and Chemicals,https://news.google.com/articles/CBMicGh0dHBzOi8vd3d3Lm5hdHVyYWxnYXNpbnRlbC5jb20vaW1wZXJpYWwtYWlyLXByb2R1Y3RzLWNvbGxhYm9yYXRpbmctb24tc3RyYXRoY29uYS1iaW9kaWVzZWwtcHJvamVjdC1pbi1lZG1vbnRvbi_SAQA?hl=en-US&gl=US&ceid=US%3Aen,Imperial Air Products Collaborating on Strathcona Biodiesel Project in Edmonton,"ERROR: Article `download()` failed with HTTPSConnectionPool(host='www.naturalgasintel.com', port=443): Max retries exceeded with url: /imperial-air-products-collaborating-on-strathcona-biodiesel-project-in-edmonton/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001671101DD20>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')) on URL https://news.google.com/articles/CBMicGh0dHBzOi8vd3d3Lm5hdHVyYWxnYXNpbnRlbC5jb20vaW1wZXJpYWwtYWlyLXByb2R1Y3RzLWNvbGxhYm9yYXRpbmctb24tc3RyYXRoY29uYS1iaW9kaWVzZWwtcHJvamVjdC1pbi1lZG1vbnRvbi_SAQA?hl=en-US&gl=US&ceid=US%3Aen",https://news.google.com/articles/CBMiSWh0dHBzOi8vd3d3Lm9mZnNob3JlLXRlY2hub2xvZ3kuY29tL25ld3MvbWNkZXJtb3R0LWZlZWQtZ3Vudm9ycy10ZXJtaW5hbC_SAQA?hl=en-US&gl=US&ceid=US%3Aen,McDermott secures FEED contract for Gunvor's green hydrogen terminal,"ERROR: Article `download()` failed with HTTPSConnectionPool(host='www.offshore-technology.com', port=443): Max retries exceeded with url: /news/mcdermott-feed-gunvors-terminal/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001671101C7F0>: Failed to establish a new connection: [WinError 10051] A socket operation was attempted to an unreachable network')) on URL https://news.google.com/articles/CBMiSWh0dHBzOi8vd3d3Lm9mZnNob3JlLXRlY2hub2xvZ3kuY29tL25ld3MvbWNkZXJtb3R0LWZlZWQtZ3Vudm9ycy10ZXJtaW5hbC_SAQA?hl=en-US&gl=US&ceid=US%3Aen",https://news.google.com/articles/CBMiVGh0dHBzOi8vdWsuZmluYW5jZS55YWhvby5jb20vbmV3cy9nbG9iYWwtY2FyYm9uLWRpb3hpZGUtbWFya2V0LXJlcG9ydC0wODIzMDAzNzQuaHRtbNIBAA?hl=en-US&gl=US&ceid=US%3Aen,Global Carbon Dioxide Market Report 2022: Eco-Friendly Nature of Ethanol to Drive the Growth of the Industry,"ERROR: Article `download()` failed with HTTPSConnectionPool(host='uk.finance.yahoo.com', port=443): Max retries exceeded with url: /news/global-carbon-dioxide-market-report-082300374.html (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001671101C460>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')) on URL https://news.google.com/articles/CBMiVGh0dHBzOi8vdWsuZmluYW5jZS55YWhvby5jb20vbmV3cy9nbG9iYWwtY2FyYm9uLWRpb3hpZGUtbWFya2V0LXJlcG9ydC0wODIzMDAzNzQuaHRtbNIBAA?hl=en-US&gl=US&ceid=US%3Aen",https://news.google.com/articles/CBMiS2h0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9uYW1lL2RvbmFsZC1laG5vdC1vYml0dWFyeT9pZD0zNjQ1NDE5NdIBAA?hl=en-US&gl=US&ceid=US%3Aen,Donald Ehnot Obituary (1937 - 2022) - Emmaus PA,ERROR: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.legacy.com/us/obituaries/name/donald-ehnot-obituary?id=36454195 on URL https://news.google.com/articles/CBMiS2h0dHBzOi8vd3d3LmxlZ2FjeS5jb20vdXMvb2JpdHVhcmllcy9uYW1lL2RvbmFsZC1laG5vdC1vYml0dWFyeT9pZD0zNjQ1NDE5NdIBAA?hl=en-US&gl=US&ceid=US%3Aen,https://news.google.com/articles/CBMiywFodHRwczovL3d3dy50aGVhZHZvY2F0ZS5jb20vYmF0b25fcm91Z2UvbmV3cy9lbnZpcm9ubWVudC9saXZpbmdzdG9uLXBhcmlzaC1pbXBvc2VzLXllYXItbG9uZy1tb3JhdG9yaXVtLW9uLWluamVjdGlvbi13ZWxscy1wYXVzaW5nLWNhcmJvbi1jYXB0dXJlLWVmZm9ydHMvYXJ0aWNsZV85MTNlODc0MC0yZmFlLTExZWQtYmQ1MC00YmY2MmJkNzJkOGMuaHRtbNIBAA?hl=en-US&gl=US&ceid=US%3Aen,Livingston Parish imposes year-long moratorium on injection wells pausing carbon capture efforts,Lake Maurepas is one of the sites for where carbon dioxide would be captured and injected deep underground as part of a larger clean energy project. Louisiana’s ability to regulate carbon capture injection wells went before the court of public opinion Wednesday as proponents and critics of the burgeoning industry sparred at the first day of a three-day public comment marathon on the state’s bid to wrest control of the wells from the federal government.
+ABNB,Airbnb,https://news.google.com/articles/CBMiM2h0dHBzOi8vd3d3LmJ1enpmZWVkLmNvbS9jcnlzdGFscm8vYmFyYmFyaWFuLXJldmlld9IBAA?hl=en-US&gl=US&ceid=US%3Aen,"""Barbarian"" is A New Horror Film About An Airbnb With Nightmares You Could Never Even Imagine Inside","ERROR: Article `download()` failed with HTTPSConnectionPool(host='www.buzzfeed.com', port=443): Max retries exceeded with url: /crystalro/barbarian-review (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x00000167127943D0>, 'Connection to www.buzzfeed.com timed out. (connect timeout=7)')) on URL https://news.google.com/articles/CBMiM2h0dHBzOi8vd3d3LmJ1enpmZWVkLmNvbS9jcnlzdGFscm8vYmFyYmFyaWFuLXJldmlld9IBAA?hl=en-US&gl=US&ceid=US%3Aen",https://news.google.com/articles/CBMiZGh0dHBzOi8vbmV3cy5haXJibmIuY29tL3RyYW5zbGF0aW9uLWVuZ2luZS1sYXVuY2hlcy1yZXZpZXdzLWFmdGVyLWV4cGFuZGluZy10by1tZXNzYWdlcy10aGlzLXN1bW1lci_SAQA?hl=en-US&gl=US&ceid=US%3Aen,Translation Engine launches Reviews after expanding to Messages this summer,"ERROR: Article `download()` failed with HTTPSConnectionPool(host='news.airbnb.com', port=443): Max retries exceeded with url: /translation-engine-launches-reviews-after-expanding-to-messages-this-summer/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000016712797DF0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')) on URL https://news.google.com/articles/CBMiZGh0dHBzOi8vbmV3cy5haXJibmIuY29tL3RyYW5zbGF0aW9uLWVuZ2luZS1sYXVuY2hlcy1yZXZpZXdzLWFmdGVyLWV4cGFuZGluZy10by1tZXNzYWdlcy10aGlzLXN1bW1lci_SAQA?hl=en-US&gl=US&ceid=US%3Aen",https://news.google.com/articles/CBMiXmh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vaS1vd24tYWlyYm5iLWV4dHJhLWluY29tZS1kZXNlcnQtZG9tZS1ob3VzZS1qb3NodWEtdHJlZS0yMDIyLTjSAWJodHRwczovL3d3dy5idXNpbmVzc2luc2lkZXIuY29tL2ktb3duLWFpcmJuYi1leHRyYS1pbmNvbWUtZGVzZXJ0LWRvbWUtaG91c2Utam9zaHVhLXRyZWUtMjAyMi04P2FtcA?hl=en-US&gl=US&ceid=US%3Aen,I own a 'dome house' Airbnb in Joshua Tree for extra income,"ERROR: Article `download()` failed with HTTPSConnectionPool(host='www.businessinsider.com', port=443): Max retries exceeded with url: /i-own-airbnb-extra-income-desert-dome-house-joshua-tree-2022-8 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000167127954B0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')) on URL https://news.google.com/articles/CBMiXmh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vaS1vd24tYWlyYm5iLWV4dHJhLWluY29tZS1kZXNlcnQtZG9tZS1ob3VzZS1qb3NodWEtdHJlZS0yMDIyLTjSAWJodHRwczovL3d3dy5idXNpbmVzc2luc2lkZXIuY29tL2ktb3duLWFpcmJuYi1leHRyYS1pbmNvbWUtZGVzZXJ0LWRvbWUtaG91c2Utam9zaHVhLXRyZWUtMjAyMi04P2FtcA?hl=en-US&gl=US&ceid=US%3Aen",https://news.google.com/articles/CBMiPGh0dHBzOi8vd3d3Lm5leHRhdmVudWUub3JnL3Nub3diaXJkaW5nLWluLXRoZS1hZ2Utb2YtYWlyYm5iL9IBQGh0dHBzOi8vd3d3Lm5leHRhdmVudWUub3JnL3Nub3diaXJkaW5nLWluLXRoZS1hZ2Utb2YtYWlyYm5iL2FtcC8?hl=en-US&gl=US&ceid=US%3Aen,Snowbirding in the Age of Airbnb,ERROR: Article `download()` failed with 403 Client Error: Forbidden for url: https://www.nextavenue.org/snowbirding-in-the-age-of-airbnb/ on URL https://news.google.com/articles/CBMiPGh0dHBzOi8vd3d3Lm5leHRhdmVudWUub3JnL3Nub3diaXJkaW5nLWluLXRoZS1hZ2Utb2YtYWlyYm5iL9IBQGh0dHBzOi8vd3d3Lm5leHRhdmVudWUub3JnL3Nub3diaXJkaW5nLWluLXRoZS1hZ2Utb2YtYWlyYm5iL2FtcC8?hl=en-US&gl=US&ceid=US%3Aen,https://news.google.com/articles/CBMidGh0dHBzOi8vd3d3LmRldHJvaXRuZXdzLmNvbS9zdG9yeS9lbnRlcnRhaW5tZW50LzIwMjIvMDkvMDgvcmV2aWV3LWJhcmJhcmlhbi1kZXRyb2l0LWFpcmJuYi1ob3VzZS1ob3Jyb3JzLzgwMjExOTIwMDEv0gEA?hl=en-US&gl=US&ceid=US%3Aen,Review: In 'Barbarian' a Detroit Airbnb is a house of horrors,"ERROR: Article `download()` failed with HTTPSConnectionPool(host='www.detroitnews.com', port=443): Max retries exceeded with url: /story/entertainment/2022/09/08/review-barbarian-detroit-airbnb-house-horrors/8021192001/ (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000167127960B0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')) on URL https://news.google.com/articles/CBMidGh0dHBzOi8vd3d3LmRldHJvaXRuZXdzLmNvbS9zdG9yeS9lbnRlcnRhaW5tZW50LzIwMjIvMDkvMDgvcmV2aWV3LWJhcmJhcmlhbi1kZXRyb2l0LWFpcmJuYi1ob3VzZS1ob3Jyb3JzLzgwMjExOTIwMDEv0gEA?hl=en-US&gl=US&ceid=US%3Aen"
+AKAM,Akamai,https://news.google.com/articles/CBMibGh0dHBzOi8vd3d3LnNkeGNlbnRyYWwuY29tL2FydGljbGVzL25ld3MvZ2FydG5lci1uYW1lcy1ha2FtYWktY2xvdWRmbGFyZS1pbXBlcnZhLWNsb3VkLXdhYXAtbGVhZGVycy8yMDIyLzA5L9IBAA?hl=en-US&gl=US&ceid=US%3Aen,Gartner Names Akamai Cloudflare Imperva Cloud WAAP Leaders,"Gartner crowned Akamai Technologies Cloudflare and Imperva as “leaders” of the cloud web application and API protection (WAAP) market in its latest Magic Quadrant report.
+
+Gartner evaluated 11 cloud WAAP vendors. Amazon Web Services (AWS) and Fastly made it into the “challengers” quadrant; Radware was the only vendor in the “visionaries” square; and Gartner labeled Microsoft F5 Fortinet Barracuda and ThreatX “niche players.”
+
+According to the report cloud WAAPs are cloud-delivered services that mainly protect public-facing web applications and APIs by mitigating a broad range of runtime attacks web application threats automated and specialized attacks on APIs. Its core capabilities include web application firewall (WAF) distributed denial-of-service (DDoS) protection bot management and API protection.
+
+Gartner expects 70% of organizations that implement multi-cloud strategies for web applications will prefer cloud WAAP services compared to WAAP appliances and infrastructure-as-a-service (IaaS) native WAAP by 2024. And by 2026 40% of companies will select a WAAP provider based on the advanced API protections they offer as well as web application security features compared to 15% this year Gartner says.
+
+“The overall cloud WAAP market is mature though some segments are quite dynamic such as bot management and API threat protection” the report noted. “Unlike the WAAP appliance market which is dominated by replacement purchases the cloud WAAP market continues to experience double-digit growth thanks to new customers new applications to protect and shifts from appliances to cloud-delivered security.”
+
+Akamai Offers a Broad and Diverse Portfolio
+
+Akamai last November merged its two WAAP products: Kona Site Defender (KSD) and Web Application Protector (WAP) which is a lower-priced limited-feature version of KSD into a new product — App & API Protector. The vendor more recently released an updated version of its Adaptive Security Engine for WAAP.
+
+Gartner noted Akamai’s integration of web application and security features appeals to large organizations seeking a comprehensive solution. However the firm cautioned about customer confusion about this portfolio transition and false positive issues especially for bot detection.
+
+Cloudflare Imperva Graded
+
+Cloudflare’s cloud-delivered WAAP portfolio includes DDoS protection and mitigation WAF bot management API gateway and page shield. Gartner noted the vendor continues to expand beyond application protection adding API discovery scheme ingestion and semiautomated rate limiting but added that Cloudflare’s offering lacks hybrid deployment and needs improvement for some forensic analysis capabilities.
+
+Imperva’s cloud WAAP service — Cloud WAF — is under its “Imperva Anywhere” portfolio which also includes adjacent application approaches such as runtime application self-protection (RASP) and database security.
+
+Gartner noted this strategy “resonates with security teams willing to centrally manage WAAP enforcement points in different form factors.” The vendor also touted its WAAP service enables customers to deploy from appliances in data centers software-as-a-service (SaaS) to part of cloud-native applications and workflows in major public clouds.
+
+However Imperva has seen some recent leadership changes that Gartner said have had an adverse impact on the vendor’s roadmap execution and overall market presence over the past year.",https://news.google.com/articles/CBMiYWh0dHBzOi8vd3d3LmJhbmtpbmZvc2VjdXJpdHkuY29tL2FrYW1haS1jbG91ZGZsYXJlLWltcGVydmEtdG9wLWFwcC1hcGktZGVmZW5zZS1nYXJ0bmVyLW1xLWEtMjAwMzbSAQA?hl=en-US&gl=US&ceid=US%3Aen,Akamai Cloudflare Imperva Top App & API Defense Gartner MQ,"ERROR: Article `download()` failed with HTTPSConnectionPool(host='www.bankinfosecurity.com', port=443): Max retries exceeded with url: /akamai-cloudflare-imperva-top-app-api-defense-gartner-mq-a-20036 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x00000167114247F0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')) on URL https://news.google.com/articles/CBMiYWh0dHBzOi8vd3d3LmJhbmtpbmZvc2VjdXJpdHkuY29tL2FrYW1haS1jbG91ZGZsYXJlLWltcGVydmEtdG9wLWFwcC1hcGktZGVmZW5zZS1nYXJ0bmVyLW1xLWEtMjAwMzbSAQA?hl=en-US&gl=US&ceid=US%3Aen",https://news.google.com/articles/CBMiWWh0dHBzOi8vd3d3LnNkeGNlbnRyYWwuY29tL2FydGljbGVzL25ld3MvYWthbWFpLWxheWVyLTctZGRvcy1hdHRhY2tzLW9uLXRoZS1yaXNlLzIwMjIvMDkv0gEA?hl=en-US&gl=US&ceid=US%3Aen,Akamai: Layer 7 DDoS Attacks on the Rise,"ERROR: Article `download()` failed with HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /articles/CBMiWWh0dHBzOi8vd3d3LnNkeGNlbnRyYWwuY29tL2FydGljbGVzL25ld3MvYWthbWFpLWxheWVyLTctZGRvcy1hdHRhY2tzLW9uLXRoZS1yaXNlLzIwMjIvMDkv0gEA?hl=en-US&gl=US&ceid=US%3Aen (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000016711424C10>: Failed to establish a new connection: [WinError 10051] A socket operation was attempted to an unreachable network')) on URL https://news.google.com/articles/CBMiWWh0dHBzOi8vd3d3LnNkeGNlbnRyYWwuY29tL2FydGljbGVzL25ld3MvYWthbWFpLWxheWVyLTctZGRvcy1hdHRhY2tzLW9uLXRoZS1yaXNlLzIwMjIvMDkv0gEA?hl=en-US&gl=US&ceid=US%3Aen",https://news.google.com/articles/CBMidWh0dHBzOi8vdml0ZXJiaXNjaG9vbC51c2MuZWR1L25ld3MvMjAyMi8wOS9pc2ktcGgtZC1zdHVkZW50cy1sYW5kLWNvdmV0ZWQtc3VtbWVyLWludGVybnNoaXBzLWF0LW1ham9yLXRlY2gtY29tcGFuaWVzL9IBAA?hl=en-US&gl=US&ceid=US%3Aen,ISI Ph.D. Students Land Coveted Summer Internships at Major Tech Companies - USC Viterbi | School of Engineering,"ERROR: Article `download()` failed with HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /articles/CBMidWh0dHBzOi8vdml0ZXJiaXNjaG9vbC51c2MuZWR1L25ld3MvMjAyMi8wOS9pc2ktcGgtZC1zdHVkZW50cy1sYW5kLWNvdmV0ZWQtc3VtbWVyLWludGVybnNoaXBzLWF0LW1ham9yLXRlY2gtY29tcGFuaWVzL9IBAA?hl=en-US&gl=US&ceid=US%3Aen (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000016711426710>: Failed to establish a new connection: [WinError 10051] A socket operation was attempted to an unreachable network')) on URL https://news.google.com/articles/CBMidWh0dHBzOi8vdml0ZXJiaXNjaG9vbC51c2MuZWR1L25ld3MvMjAyMi8wOS9pc2ktcGgtZC1zdHVkZW50cy1sYW5kLWNvdmV0ZWQtc3VtbWVyLWludGVybnNoaXBzLWF0LW1ham9yLXRlY2gtY29tcGFuaWVzL9IBAA?hl=en-US&gl=US&ceid=US%3Aen",https://news.google.com/articles/CBMiY2h0dHBzOi8vd3d3LnRlbGVjb210di5jb20vY29udGVudC9lZGdlL2NhY2hlLXJpY2gtd2h5LXRlbGNvcy13ZWF2ZS1xd2lsdC1pbnRvLXRoZWlyLW5ldHdvcmtzLTQ1MzcyL9IBZ2h0dHBzOi8vd3d3LnRlbGVjb210di5jb20vY29udGVudC9lZGdlL2NhY2hlLXJpY2gtd2h5LXRlbGNvcy13ZWF2ZS1xd2lsdC1pbnRvLXRoZWlyLW5ldHdvcmtzLTQ1MzcyL2FtcC8?hl=en-US&gl=US&ceid=US%3Aen,Cache rich: Why telcos weave Qwilt into their networks,"ERROR: Article `download()` failed with HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /articles/CBMiY2h0dHBzOi8vd3d3LnRlbGVjb210di5jb20vY29udGVudC9lZGdlL2NhY2hlLXJpY2gtd2h5LXRlbGNvcy13ZWF2ZS1xd2lsdC1pbnRvLXRoZWlyLW5ldHdvcmtzLTQ1MzcyL9IBZ2h0dHBzOi8vd3d3LnRlbGVjb210di5jb20vY29udGVudC9lZGdlL2NhY2hlLXJpY2gtd2h5LXRlbGNvcy13ZWF2ZS1xd2lsdC1pbnRvLXRoZWlyLW5ldHdvcmtzLTQ1MzcyL2FtcC8?hl=en-US&gl=US&ceid=US%3Aen (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000016711426680>: Failed to establish a new connection: [WinError 10051] A socket operation was attempted to an unreachable network')) on URL https://news.google.com/articles/CBMiY2h0dHBzOi8vd3d3LnRlbGVjb210di5jb20vY29udGVudC9lZGdlL2NhY2hlLXJpY2gtd2h5LXRlbGNvcy13ZWF2ZS1xd2lsdC1pbnRvLXRoZWlyLW5ldHdvcmtzLTQ1MzcyL9IBZ2h0dHBzOi8vd3d3LnRlbGVjb210di5jb20vY29udGVudC9lZGdlL2NhY2hlLXJpY2gtd2h5LXRlbGNvcy13ZWF2ZS1xd2lsdC1pbnRvLXRoZWlyLW5ldHdvcmtzLTQ1MzcyL2FtcC8?hl=en-US&gl=US&ceid=US%3Aen"
+ALB,Albemarle Corporation,https://news.google.com/articles/CBMiSmh0dHBzOi8vdWsubW92aWVzLnlhaG9vLmNvbS81LWV0ZnMtcG9pc2VkLWJlbmVmaXQtaW5mbGF0aW9uLTIxNDcwOTQxMi5odG1s0gEA?hl=en-US&gl=US&ceid=US%3Aen,5 ETFs Poised to Benefit from the Inflation Reduction Act,"ERROR: Article `download()` failed with HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /articles/CBMiSmh0dHBzOi8vdWsubW92aWVzLnlhaG9vLmNvbS81LWV0ZnMtcG9pc2VkLWJlbmVmaXQtaW5mbGF0aW9uLTIxNDcwOTQxMi5odG1s0gEA?hl=en-US&gl=US&ceid=US%3Aen (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000016712645600>: Failed to establish a new connection: [WinError 10051] A socket operation was attempted to an unreachable network')) on URL https://news.google.com/articles/CBMiSmh0dHBzOi8vdWsubW92aWVzLnlhaG9vLmNvbS81LWV0ZnMtcG9pc2VkLWJlbmVmaXQtaW5mbGF0aW9uLTIxNDcwOTQxMi5odG1s0gEA?hl=en-US&gl=US&ceid=US%3Aen",https://news.google.com/articles/CBMiSGh0dHBzOi8vY2xlYW50ZWNobmljYS5jb20vMjAyMi8wOS8wOS9ieWRzLW9yZGVyLWJhY2tsb2ctNzAwMDAwLXZlaGljbGVzL9IBTGh0dHBzOi8vY2xlYW50ZWNobmljYS5jb20vMjAyMi8wOS8wOS9ieWRzLW9yZGVyLWJhY2tsb2ctNzAwMDAwLXZlaGljbGVzL2FtcC8?hl=en-US&gl=US&ceid=US%3Aen,BYD’s Order Backlog: ~700000 Vehicles,"Sign up for daily news updates from CleanTechnica on email. Or follow us on Google News
+
+I recently wrote about Tesla’s rather enormous order backlog — estimated to be ~457000 vehicles. Since then I’ve seen coverage of BYD’s estimated order backlog and it’s even bigger. According to CnEVPost BYD’s order backlog has reached around 700000 vehicles. BYD CEO Wang Chuanfu reportedly informed local reporters of the figure.
+
+Note that this is on the back of rising sales. As recently reported BYD delivered nearly 175000 vehicles to customers in August — 82678 full electrics and 91299 plugin hybrids.
+
+While deliveries were booming covid-related societal shutdowns and extreme heat have slowed things down a bit in recent weeks and months. So they could certainly be higher and the growing order backlog shows that as well. BYD’s goal in order to solve this rather enjoyable problem is to get up to 280000 vehicle deliveries a month by the end of 2022! That is quite an increase in production and delivery capacity in a short timeframe.
+
+In order to help increase production BYD announced that it plans to open a new factory in Thailand.
+
+As our monthly China EV sales reports show BYD is the clear dominant market leader owning about 28% of the overall passenger plugin vehicle market. But BYD is not satisfied to sit at home in China. It is also expanding across the globe. It is launching EV sales arms in Denmark Cambodia Australia Japan Germany Sweden and surely many other places. Get ready there’s about to be a tsunami of BYD EV sales!
+
+Related story: BYD Sells More Plugin Vehicles Than Tesla But Tesla Makes ~11 Times More Profit
+
+Have a tip for CleanTechnica? Want to advertise? Want to suggest a guest for our CleanTech Talk podcast? Latest CleanTechnica.TV Video Advertisement CleanTechnica uses affiliate links. See our policy here Have a tip for CleanTechnica? Want to advertise? Want to suggest a guest for our CleanTech Talk podcast? Contact us here",https://news.google.com/articles/CBMiR2h0dHBzOi8vd3d3LnR0bmV3cy5jb20vYXJ0aWNsZXMvdGVzbGEtd2VpZ2hzLW5ldy1saXRoaXVtLXJlZmluZXJ5LXRleGFz0gEA?hl=en-US&gl=US&ceid=US%3Aen,Tesla Weighs New Lithium Refinery in Texas,"A Tesla vehicle charges at a Tesla Supercharger site. (Chuck Burton/Associated Press)
+
+[Stay on top of transportation news: Get TTNews in your inbox.]
+
+Tesla Inc. is plotting a potential lithium refinery on the gulf coast of Texas a move that would bolster the company’s battery production efforts and further expand its footprint in the state.
+
+The electric car maker has told officials that it’s considering constructing a “battery-grade lithium hydroxide refining facility” in Nueces County which it has pitched as “the first of its kind in North America” according to a newly public application for tax breaks filed with the Texas Comptroller’s Office.
+
+If built Tesla told the state that the facility would process “raw ore material into a usable state for battery production.” The resulting lithium hydroxide it creates would be “packaged and shipped by truck and rail to various Tesla battery manufacturing sites supporting the necessary supply chain for large-scale and electric vehicle batteries.”
+
+Tesla also said the process it will use is “innovative and designed to consume less hazardous reagents and create usable byproducts compared to the conventional process.”
+
+Construction could begin as soon as the fourth quarter of 2022 but wouldn’t reach commercial production until the fourth quarter of 2024. Tesla has told the state that the facility could be located “anywhere with access to the Gulf Coast shipping channel” but that the company is evaluating a competing site in Louisiana.
+
+Tesla didn’t respond to a request for comment.
+
+Tesla’s shares rose 1.3% as of 7:56 a.m. in New York.
+
+CEO Elon Musk has spent much of the last year agitating for rapid development in lithium mining in North America comparing the opportunity to the fat margins typically made in the software industry.
+
+“I’d like to once again urge entrepreneurs to enter the lithium refining business. The mining is relatively easy the refining is much harder” Musk said on Tesla’s second-quarter earnings call in July. “You can’t lose it’s a license to print money.”
+
+Dozens of projects are underway to add similar plants in other nations including developments in Germany and Australia which began production at a first refinery earlier this year. Albemarle Corp. the world’s top lithium producer is planning to build a new processing site in the southeastern U.S.
+
+Want more news? Listen to today's daily briefing above or go here for more info
+
+China dominates lithium refining and has more than half of global capacity to process raw materials harvested at mines or from salt-rich underground brines into the specialist chemicals used in EV batteries.
+
+A lithium mining facility would be just the latest addition to Musk’s growing Texas empire. Beyond the new automotive factory in Austin that started production this year Musk has built out a massive rocket prototyping and launch facility in Boca Chica Texas. His tunneling outfit The Boring Company is also pursuing numerous projects across the state.
+
+Tesla has previously applied for permits to make similar battery materials adjacent to its Austin factory though the current status of the project is unclear.",,,,,,
+ARE,Alexandria Real Estate Equities,https://news.google.com/articles/CBMilAFodHRwczovL3d3dy5iaXNub3cuY29tL2xvcy1hbmdlbGVzL25ld3MvbGlmZS1zY2llbmNlcy9hbGV4YW5kcmlhLXByZXNzaW5nLWFoZWFkLW9uLXBsYW4tdG8tcmVkZXZlbG9wLXZhY2FudC10aG91c2FuZC1vYWtzLWxpZmUtc2NpZW5jZS1jYW1wdXMtMTE1Mzcy0gEA?hl=en-US&gl=US&ceid=US%3Aen,Alexandria Moves Forward With Plan To Redevelop Thousand Oaks Life Sciences Campus,"A rendering of the project that will replace a series of older vacant life sciences buildings.
+
+Alexandria Real Estate Equities is moving forward with its plan to turn a vacant Thousand Oaks California life sciences property — the former home of Amgen — into a 350K SF campus.
+
+The company would raze the existing buildings about 170K SF in total and replace them with four new buildings totaling 351K SF CoStar reported.
+
+Three of the new buildings would be combination lab and office with about 60% of the space devoted to lab uses according to documents filed with the city of Thousand Oaks. About 2200 lab and office employees are expected to work at the site once complete.
+
+Thousand Oaks has been a growing life sciences hub since Amgen was founded in the 1980s.
+
+Though a construction start date was not disclosed in the public documents Alexandria did say it expects construction to take about 36 months once it begins.
+
+The property at 1100 Rancho Conejo Blvd. has been empty since 2017 when Amgen moved out. Alexandria bought it in September 2021 for $28M according to CoStar. A representative for Alexandria did not immediately respond to a request for comment.
+
+This project is moving ahead but not all of Alexandria’s planned developments have been so lucky. Alexandria said in a regulatory filing in August that it backed out of a plan to develop a new 600K SF project in California though it did not disclose a location.
+
+“Since the company’s initial investment the macroeconomic environment has deteriorated and negatively impacted the financial outlook for this project” the company stated in a filing with the Securities and Exchange Commission.
+
+Alexandria took a $30M loss when it backed out.
+
+Investments in life sciences development and expansion from venture capital and other sources hit records in 2020 and 2021 but is expected to taper off in 2022 as other economic factors lose steam.",https://news.google.com/articles/CBMiZmh0dHBzOi8vc2Z5aW1ieS5jb20vMjAyMi8wOS9jdXJ0YWlud2FsbC1pbnN0YWxsZWQtb24tNzUxLWdhdGV3YXktYm91bGV2YXJkLWluLXNvdXRoLXNhbi1mcmFuY2lzY28uaHRtbNIBAA?hl=en-US&gl=US&ceid=US%3Aen,Curtainwall Installed on 751 Gateway Boulevard in South San Francisco,"ERROR: Article `download()` failed with HTTPSConnectionPool(host='sfyimby.com', port=443): Max retries exceeded with url: /2022/09/curtainwall-installed-on-751-gateway-boulevard-in-south-san-francisco.html (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000016710BBBEE0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed')) on URL https://news.google.com/articles/CBMiZmh0dHBzOi8vc2Z5aW1ieS5jb20vMjAyMi8wOS9jdXJ0YWlud2FsbC1pbnN0YWxsZWQtb24tNzUxLWdhdGV3YXktYm91bGV2YXJkLWluLXNvdXRoLXNhbi1mcmFuY2lzY28uaHRtbNIBAA?hl=en-US&gl=US&ceid=US%3Aen",,,,,,,,,
+ALGN,Align Technology,https://news.google.com/articles/CBMiXWh0dHBzOi8vd3d3Mi5kZWxvaXR0ZS5jb20vdXMvZW4vaW5zaWdodHMvdG9waWNzL3RhbGVudC9vcmdhbml6YXRpb25hbC1za2lsbC1iYXNlZC1oaXJpbmcuaHRtbNIBAA?hl=en-US&gl=US&ceid=US%3Aen,Skills-based organizations,"ERROR: Article `download()` failed with HTTPSConnectionPool(host='www2.deloitte.com', port=443): Max retries exceeded with url: /us/en/insights/topics/talent/organizational-skill-based-hiring.html (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001671298D420>: Failed to establish a new connection: [WinError 10051] A socket operation was attempted to an unreachable network')) on URL https://news.google.com/articles/CBMiXWh0dHBzOi8vd3d3Mi5kZWxvaXR0ZS5jb20vdXMvZW4vaW5zaWdodHMvdG9waWNzL3RhbGVudC9vcmdhbml6YXRpb25hbC1za2lsbC1iYXNlZC1oaXJpbmcuaHRtbNIBAA?hl=en-US&gl=US&ceid=US%3Aen",https://news.google.com/articles/CBMiL2h0dHBzOi8vbmV3cy5wYW5hc29uaWMuY29tL2dsb2JhbC9zdG9yaWVzLzEyNDU20gEA?hl=en-US&gl=US&ceid=US%3Aen,Panasonic Holdings Aims to Create “A World You Would Never See Without Us” | Environment | Sustainability | Feature ...,"ERROR: Article `download()` failed with HTTPSConnectionPool(host='news.google.com', port=443): Max retries exceeded with url: /articles/CBMiL2h0dHBzOi8vbmV3cy5wYW5hc29uaWMuY29tL2dsb2JhbC9zdG9yaWVzLzEyNDU20gEA?hl=en-US&gl=US&ceid=US%3Aen (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001671298FDC0>: Failed to establish a new connection: [WinError 10051] A socket operation was attempted to an unreachable network')) on URL https://news.google.com/articles/CBMiL2h0dHBzOi8vbmV3cy5wYW5hc29uaWMuY29tL2dsb2JhbC9zdG9yaWVzLzEyNDU20gEA?hl=en-US&gl=US&ceid=US%3Aen",,,,,,,,,
+ALLE,Allegion,,,,,,,,,,,,,,,
+LNT,Alliant Energy,,,,,,,,,,,,,,,
+ALL,Allstate,,,,,,,,,,,,,,,
+GOOGL,Alphabet Inc,,,,,,,,,,,,,,,
+GOOG,Alphabet Inc,,,,,,,,,,,,,,,
+MO,Altria,,,,,,,,,,,,,,,
+AMZN,Amazon,,,,,,,,,,,,,,,
+AMCR,Amcor,,,,,,,,,,,,,,,
+AEE,Ameren,,,,,,,,,,,,,,,
+AAL,American Airlines Group,,,,,,,,,,,,,,,
+AEP,American Electric Power,,,,,,,,,,,,,,,
+AXP,American Express,,,,,,,,,,,,,,,
+AIG,American International Group,,,,,,,,,,,,,,,
+AMT,American Tower,,,,,,,,,,,,,,,
+AWK,American Water Works,,,,,,,,,,,,,,,
+AMP,Ameriprise Financial,,,,,,,,,,,,,,,
+AME,Ametek,,,,,,,,,,,,,,,
+AMGN,Amgen,,,,,,,,,,,,,,,
+APH,Amphenol,,,,,,,,,,,,,,,
+ADI,Analog Devices,,,,,,,,,,,,,,,
+ANSS,Ansys,,,,,,,,,,,,,,,
+AON,Aon,,,,,,,,,,,,,,,
+APA,APA Corporation,,,,,,,,,,,,,,,
+AAPL,Apple Inc.,,,,,,,,,,,,,,,
+AMAT,Applied Materials,,,,,,,,,,,,,,,
+APTV,Aptiv,,,,,,,,,,,,,,,
+ACGL,Arch Capital Group,,,,,,,,,,,,,,,
+ADM,Archer-Daniels-Midland,,,,,,,,,,,,,,,
+ANET,Arista Networks,,,,,,,,,,,,,,,
+AJG,Arthur J Gallagher & Co,,,,,,,,,,,,,,,
+AIZ,Assurant,,,,,,,,,,,,,,,
+T,AT&T,,,,,,,,,,,,,,,
+ATO,Atmos Energy,,,,,,,,,,,,,,,
+ADSK,Autodesk,,,,,,,,,,,,,,,
+ADP,Automatic Data Processing,,,,,,,,,,,,,,,
+AZO,AutoZone,,,,,,,,,,,,,,,
+AVB,AvalonBay Communities,,,,,,,,,,,,,,,
+AVY,Avery Dennison,,,,,,,,,,,,,,,
+AXON,Axon Enterprise,,,,,,,,,,,,,,,
+BKR,Baker Hughes,,,,,,,,,,,,,,,
+BALL,Ball Corporation,,,,,,,,,,,,,,,
+BAC,Bank of America,,,,,,,,,,,,,,,
+BK,Bank of New York Mellon,,,,,,,,,,,,,,,
+BBWI,Bath & Body Works,,,,,,,,,,,,,,,
+BAX,Baxter International,,,,,,,,,,,,,,,
+BDX,Becton Dickinson,,,,,,,,,,,,,,,
+BRK-B,Berkshire Hathaway,,,,,,,,,,,,,,,
+BBY,Best Buy,,,,,,,,,,,,,,,
+BIO,Bio-Rad,,,,,,,,,,,,,,,
+TECH,Bio-Techne,,,,,,,,,,,,,,,
+BIIB,Biogen,,,,,,,,,,,,,,,
+BLK,BlackRock,,,,,,,,,,,,,,,
+BX,Blackstone,,,,,,,,,,,,,,,
+BA,Boeing,,,,,,,,,,,,,,,
+BKNG,Booking Holdings,,,,,,,,,,,,,,,
+BWA,BorgWarner,,,,,,,,,,,,,,,
+BXP,Boston Properties,,,,,,,,,,,,,,,
+BSX,Boston Scientific,,,,,,,,,,,,,,,
+BMY,Bristol Myers Squibb,,,,,,,,,,,,,,,
+AVGO,Broadcom Inc.,,,,,,,,,,,,,,,
+BR,Broadridge Financial Solutions,,,,,,,,,,,,,,,
+BRO,Brown & Brown,,,,,,,,,,,,,,,
+BF-B,Brown–Forman,,,,,,,,,,,,,,,
+BLDR,Builders FirstSource,,,,,,,,,,,,,,,
+BG,Bunge Global SA,,,,,,,,,,,,,,,
+CDNS,Cadence Design Systems,,,,,,,,,,,,,,,
+CZR,Caesars Entertainment,,,,,,,,,,,,,,,
+CPT,Camden Property Trust,,,,,,,,,,,,,,,
+CPB,Campbell Soup Company,,,,,,,,,,,,,,,
+COF,Capital One,,,,,,,,,,,,,,,
+CAH,Cardinal Health,,,,,,,,,,,,,,,
+KMX,CarMax,,,,,,,,,,,,,,,
+CCL,Carnival,,,,,,,,,,,,,,,
+CARR,Carrier Global,,,,,,,,,,,,,,,
+CTLT,Catalent,,,,,,,,,,,,,,,
+CAT,Caterpillar,,,,,,,,,,,,,,,
+CBOE,Cboe Global Markets,,,,,,,,,,,,,,,
+CBRE,CBRE Group,,,,,,,,,,,,,,,
+CDW,CDW,,,,,,,,,,,,,,,
+CE,Celanese,,,,,,,,,,,,,,,
+COR,Cencora,,,,,,,,,,,,,,,
+CNC,Centene Corporation,,,,,,,,,,,,,,,
+CNP,CenterPoint Energy,,,,,,,,,,,,,,,
+CF,CF Industries,,,,,,,,,,,,,,,
+CHRW,CH Robinson,,,,,,,,,,,,,,,
+CRL,Charles River Laboratories,,,,,,,,,,,,,,,
+SCHW,Charles Schwab Corporation,,,,,,,,,,,,,,,
+CHTR,Charter Communications,,,,,,,,,,,,,,,
+CVX,Chevron Corporation,,,,,,,,,,,,,,,
+CMG,Chipotle Mexican Grill,,,,,,,,,,,,,,,
+CB,Chubb Limited,,,,,,,,,,,,,,,
+CHD,Church & Dwight,,,,,,,,,,,,,,,
+CI,Cigna,,,,,,,,,,,,,,,
+CINF,Cincinnati Financial,,,,,,,,,,,,,,,
+CTAS,Cintas,,,,,,,,,,,,,,,
+CSCO,Cisco,,,,,,,,,,,,,,,
+C,Citigroup,,,,,,,,,,,,,,,
+CFG,Citizens Financial Group,,,,,,,,,,,,,,,
+CLX,Clorox,,,,,,,,,,,,,,,
+CME,CME Group,,,,,,,,,,,,,,,
+CMS,CMS Energy,,,,,,,,,,,,,,,
+KO,Coca-Cola Company,,,,,,,,,,,,,,,
+CTSH,Cognizant,,,,,,,,,,,,,,,
+CL,Colgate-Palmolive,,,,,,,,,,,,,,,
+CMCSA,Comcast,,,,,,,,,,,,,,,
+CMA,Comerica,,,,,,,,,,,,,,,
+CAG,Conagra Brands,,,,,,,,,,,,,,,
+COP,ConocoPhillips,,,,,,,,,,,,,,,
+ED,Consolidated Edison,,,,,,,,,,,,,,,
+STZ,Constellation Brands,,,,,,,,,,,,,,,
+CEG,Constellation Energy,,,,,,,,,,,,,,,
+COO,CooperCompanies,,,,,,,,,,,,,,,
+CPRT,Copart,,,,,,,,,,,,,,,
+GLW,Corning,,,,,,,,,,,,,,,
+CPAY,Corpay,,,,,,,,,,,,,,,
+CTVA,Corteva,,,,,,,,,,,,,,,
+CSGP,CoStar Group,,,,,,,,,,,,,,,
+COST,Costco,,,,,,,,,,,,,,,
+CTRA,Coterra,,,,,,,,,,,,,,,
+CCI,Crown Castle,,,,,,,,,,,,,,,
+CSX,CSX,,,,,,,,,,,,,,,
+CMI,Cummins,,,,,,,,,,,,,,,
+CVS,CVS Health,,,,,,,,,,,,,,,
+DHR,Danaher Corporation,,,,,,,,,,,,,,,
+DRI,Darden Restaurants,,,,,,,,,,,,,,,
+DVA,DaVita Inc.,,,,,,,,,,,,,,,
+DAY,Dayforce,,,,,,,,,,,,,,,
+DECK,Deckers Brands,,,,,,,,,,,,,,,
+DE,John Deere,,,,,,,,,,,,,,,
+DAL,Delta Air Lines,,,,,,,,,,,,,,,
+DVN,Devon Energy,,,,,,,,,,,,,,,
+DXCM,Dexcom,,,,,,,,,,,,,,,
+FANG,Diamondback Energy,,,,,,,,,,,,,,,
+DLR,Digital Realty,,,,,,,,,,,,,,,
+DFS,Discover Financial,,,,,,,,,,,,,,,
+DG,Dollar General,,,,,,,,,,,,,,,
+DLTR,Dollar Tree,,,,,,,,,,,,,,,
+D,Dominion Energy,,,,,,,,,,,,,,,
+DPZ,Dominos,,,,,,,,,,,,,,,
+DOV,Dover Corporation,,,,,,,,,,,,,,,
+DOW,Dow,,,,,,,,,,,,,,,
+DHI,DR Horton,,,,,,,,,,,,,,,
+DTE,DTE Energy,,,,,,,,,,,,,,,
+DUK,Duke Energy,,,,,,,,,,,,,,,
+DD,DuPont,,,,,,,,,,,,,,,
+EMN,Eastman Chemical Company,,,,,,,,,,,,,,,
+ETN,Eaton Corporation,,,,,,,,,,,,,,,
+EBAY,eBay,,,,,,,,,,,,,,,
+ECL,Ecolab,,,,,,,,,,,,,,,
+EIX,Edison International,,,,,,,,,,,,,,,
+EW,Edwards Lifesciences,,,,,,,,,,,,,,,
+EA,Electronic Arts,,,,,,,,,,,,,,,
+ELV,Elevance Health,,,,,,,,,,,,,,,
+LLY,Eli Lilly and Company,,,,,,,,,,,,,,,
+EMR,Emerson Electric,,,,,,,,,,,,,,,
+ENPH,Enphase,,,,,,,,,,,,,,,
+ETR,Entergy,,,,,,,,,,,,,,,
+EOG,EOG Resources,,,,,,,,,,,,,,,
+EPAM,EPAM Systems,,,,,,,,,,,,,,,
+EQT,EQT,,,,,,,,,,,,,,,
+EFX,Equifax,,,,,,,,,,,,,,,
+EQIX,Equinix,,,,,,,,,,,,,,,
+EQR,Equity Residential,,,,,,,,,,,,,,,
+ESS,Essex Property Trust,,,,,,,,,,,,,,,
+EL,Estée Lauder Companies,,,,,,,,,,,,,,,
+ETSY,Etsy,,,,,,,,,,,,,,,
+EG,Everest Re,,,,,,,,,,,,,,,
+EVRG,Evergy,,,,,,,,,,,,,,,
+ES,Eversource,,,,,,,,,,,,,,,
+EXC,Exelon,,,,,,,,,,,,,,,
+EXPE,Expedia Group,,,,,,,,,,,,,,,
+EXPD,Expeditors International,,,,,,,,,,,,,,,
+EXR,Extra Space Storage,,,,,,,,,,,,,,,
+XOM,ExxonMobil,,,,,,,,,,,,,,,
+FFIV,F5 Inc,,,,,,,,,,,,,,,
+FDS,FactSet,,,,,,,,,,,,,,,
+FICO,Fair Isaac,,,,,,,,,,,,,,,
+FAST,Fastenal,,,,,,,,,,,,,,,
+FRT,Federal Realty,,,,,,,,,,,,,,,
+FDX,FedEx,,,,,,,,,,,,,,,
+FIS,Fidelity National Information Services,,,,,,,,,,,,,,,
+FITB,Fifth Third Bank,,,,,,,,,,,,,,,
+FSLR,First Solar,,,,,,,,,,,,,,,
+FE,FirstEnergy,,,,,,,,,,,,,,,
+FI,Fiserv,,,,,,,,,,,,,,,
+FMC,FMC Corporation,,,,,,,,,,,,,,,
+F,Ford Motor Company,,,,,,,,,,,,,,,
+FTNT,Fortinet,,,,,,,,,,,,,,,
+FTV,Fortive,,,,,,,,,,,,,,,
+FOXA,Fox Corporation,,,,,,,,,,,,,,,
+FOX,Fox Corporation,,,,,,,,,,,,,,,
+BEN,Franklin Templeton,,,,,,,,,,,,,,,
+FCX,Freeport-McMoRan,,,,,,,,,,,,,,,
+GRMN,Garmin,,,,,,,,,,,,,,,
+IT,Gartner,,,,,,,,,,,,,,,
+GE,GE Aerospace,,,,,,,,,,,,,,,
+GEHC,GE HealthCare,,,,,,,,,,,,,,,
+GEV,GE Vernova,,,,,,,,,,,,,,,
+GEN,Gen Digital,,,,,,,,,,,,,,,
+GNRC,Generac,,,,,,,,,,,,,,,
+GD,General Dynamics,,,,,,,,,,,,,,,
+GIS,General Mills,,,,,,,,,,,,,,,
+GM,General Motors,,,,,,,,,,,,,,,
+GPC,Genuine Parts Company,,,,,,,,,,,,,,,
+GILD,Gilead Sciences,,,,,,,,,,,,,,,
+GPN,Global Payments,,,,,,,,,,,,,,,
+GL,Globe Life,,,,,,,,,,,,,,,
+GS,Goldman Sachs,,,,,,,,,,,,,,,
+HAL,Halliburton,,,,,,,,,,,,,,,
+HIG,Hartford,,,,,,,,,,,,,,,
+HAS,Hasbro,,,,,,,,,,,,,,,
+HCA,HCA Healthcare,,,,,,,,,,,,,,,
+DOC,Healthpeak,,,,,,,,,,,,,,,
+HSIC,Henry Schein,,,,,,,,,,,,,,,
+HSY,Hershey's,,,,,,,,,,,,,,,
+HES,Hess Corporation,,,,,,,,,,,,,,,
+HPE,Hewlett Packard Enterprise,,,,,,,,,,,,,,,
+HLT,Hilton Worldwide,,,,,,,,,,,,,,,
+HOLX,Hologic,,,,,,,,,,,,,,,
+HD,Home Depot,,,,,,,,,,,,,,,
+HON,Honeywell,,,,,,,,,,,,,,,
+HRL,Hormel Foods,,,,,,,,,,,,,,,
+HST,Host Hotels & Resorts,,,,,,,,,,,,,,,
+HWM,Howmet Aerospace,,,,,,,,,,,,,,,
+HPQ,HP Inc,,,,,,,,,,,,,,,
+HUBB,Hubbell Incorporated,,,,,,,,,,,,,,,
+HUM,Humana,,,,,,,,,,,,,,,
+HBAN,Huntington Bancshares,,,,,,,,,,,,,,,
+HII,Huntington Ingalls Industries,,,,,,,,,,,,,,,
+IBM,IBM,,,,,,,,,,,,,,,
+IEX,IDEX Corporation,,,,,,,,,,,,,,,
+IDXX,Idexx Laboratories,,,,,,,,,,,,,,,
+ITW,Illinois Tool Works,,,,,,,,,,,,,,,
+ILMN,Illumina,,,,,,,,,,,,,,,
+INCY,Incyte,,,,,,,,,,,,,,,
+IR,Ingersoll Rand,,,,,,,,,,,,,,,
+PODD,Insulet,,,,,,,,,,,,,,,
+INTC,Intel,,,,,,,,,,,,,,,
+ICE,Intercontinental Exchange,,,,,,,,,,,,,,,
+IFF,International Flavors & Fragrances,,,,,,,,,,,,,,,
+IP,International Paper,,,,,,,,,,,,,,,
+IPG,Interpublic Group of Companies,,,,,,,,,,,,,,,
+INTU,Intuit,,,,,,,,,,,,,,,
+ISRG,Intuitive Surgical,,,,,,,,,,,,,,,
+IVZ,Invesco,,,,,,,,,,,,,,,
+INVH,Invitation Homes,,,,,,,,,,,,,,,
+IQV,IQVIA,,,,,,,,,,,,,,,
+IRM,Iron Mountain,,,,,,,,,,,,,,,
+JBHT,JB Hunt,,,,,,,,,,,,,,,
+JBL,Jabil,,,,,,,,,,,,,,,
+JKHY,Jack Henry & Associates,,,,,,,,,,,,,,,
+J,Jacobs Solutions,,,,,,,,,,,,,,,
+JNJ,Johnson & Johnson,,,,,,,,,,,,,,,
+JCI,Johnson Controls,,,,,,,,,,,,,,,
+JPM,JPMorgan Chase,,,,,,,,,,,,,,,
+JNPR,Juniper Networks,,,,,,,,,,,,,,,
+K,Kellanova,,,,,,,,,,,,,,,
+KVUE,Kenvue,,,,,,,,,,,,,,,
+KDP,Keurig Dr Pepper,,,,,,,,,,,,,,,
+KEY,KeyCorp,,,,,,,,,,,,,,,
+KEYS,Keysight,,,,,,,,,,,,,,,
+KMB,Kimberly-Clark,,,,,,,,,,,,,,,
+KIM,Kimco Realty,,,,,,,,,,,,,,,
+KMI,Kinder Morgan,,,,,,,,,,,,,,,
+KLAC,KLA Corporation,,,,,,,,,,,,,,,
+KHC,Kraft Heinz,,,,,,,,,,,,,,,
+KR,Kroger,,,,,,,,,,,,,,,
+LHX,L3Harris,,,,,,,,,,,,,,,
+LH,LabCorp,,,,,,,,,,,,,,,
+LRCX,Lam Research,,,,,,,,,,,,,,,
+LW,Lamb Weston,,,,,,,,,,,,,,,
+LVS,Las Vegas Sands,,,,,,,,,,,,,,,
+LDOS,Leidos,,,,,,,,,,,,,,,
+LEN,Lennar,,,,,,,,,,,,,,,
+LIN,Linde plc,,,,,,,,,,,,,,,
+LYV,Live Nation Entertainment,,,,,,,,,,,,,,,
+LKQ,LKQ Corporation,,,,,,,,,,,,,,,
+LMT,Lockheed Martin,,,,,,,,,,,,,,,
+L,Loews Corporation,,,,,,,,,,,,,,,
+LOW,Lowe's,,,,,,,,,,,,,,,
+LULU,Lululemon Athletica,,,,,,,,,,,,,,,
+LYB,LyondellBasell,,,,,,,,,,,,,,,
+MTB,M&T Bank,,,,,,,,,,,,,,,
+MRO,Marathon Oil,,,,,,,,,,,,,,,
+MPC,Marathon Petroleum,,,,,,,,,,,,,,,
+MKTX,MarketAxess,,,,,,,,,,,,,,,
+MAR,Marriott International,,,,,,,,,,,,,,,
+MMC,Marsh McLennan,,,,,,,,,,,,,,,
+MLM,Martin Marietta Materials,,,,,,,,,,,,,,,
+MAS,Masco,,,,,,,,,,,,,,,
+MA,Mastercard,,,,,,,,,,,,,,,
+MTCH,Match Group,,,,,,,,,,,,,,,
+MKC,McCormick & Company,,,,,,,,,,,,,,,
+MCD,McDonald's,,,,,,,,,,,,,,,
+MCK,McKesson,,,,,,,,,,,,,,,
+MDT,Medtronic,,,,,,,,,,,,,,,
+MRK,Merck & Co,,,,,,,,,,,,,,,
+META,Meta Platforms,,,,,,,,,,,,,,,
+MET,MetLife,,,,,,,,,,,,,,,
+MTD,Mettler Toledo,,,,,,,,,,,,,,,
+MGM,MGM Resorts,,,,,,,,,,,,,,,
+MCHP,Microchip Technology,,,,,,,,,,,,,,,
+MU,Micron Technology,,,,,,,,,,,,,,,
+MSFT,Microsoft,,,,,,,,,,,,,,,
+MAA,Mid-America Apartment Communities,,,,,,,,,,,,,,,
+MRNA,Moderna,,,,,,,,,,,,,,,
+MHK,Mohawk Industries,,,,,,,,,,,,,,,
+MOH,Molina Healthcare,,,,,,,,,,,,,,,
+TAP,Molson Coors Beverage Company,,,,,,,,,,,,,,,
+MDLZ,Mondelez International,,,,,,,,,,,,,,,
+MPWR,Monolithic Power Systems,,,,,,,,,,,,,,,
+MNST,Monster Beverage,,,,,,,,,,,,,,,
+MCO,Moody's Corporation,,,,,,,,,,,,,,,
+MS,Morgan Stanley,,,,,,,,,,,,,,,
+MOS,Mosaic Company,,,,,,,,,,,,,,,
+MSI,Motorola Solutions,,,,,,,,,,,,,,,
+MSCI,MSCI,,,,,,,,,,,,,,,
+NDAQ,"Nasdaq, Inc.",,,,,,,,,,,,,,,
+NTAP,NetApp,,,,,,,,,,,,,,,
+NFLX,Netflix,,,,,,,,,,,,,,,
+NEM,Newmont,,,,,,,,,,,,,,,
+NWSA,News Corp,,,,,,,,,,,,,,,
+NWS,News Corp,,,,,,,,,,,,,,,
+NEE,NextEra Energy,,,,,,,,,,,,,,,
+NKE,Nike,,,,,,,,,,,,,,,
+NI,NiSource,,,,,,,,,,,,,,,
+NDSN,Nordson Corporation,,,,,,,,,,,,,,,
+NSC,Norfolk Southern Railway,,,,,,,,,,,,,,,
+NTRS,Northern Trust,,,,,,,,,,,,,,,
+NOC,Northrop Grumman,,,,,,,,,,,,,,,
+NCLH,Norwegian Cruise Line Holdings,,,,,,,,,,,,,,,
+NRG,NRG Energy,,,,,,,,,,,,,,,
+NUE,Nucor,,,,,,,,,,,,,,,
+NVDA,Nvidia,,,,,,,,,,,,,,,
+NVR,NVR Inc,,,,,,,,,,,,,,,
+NXPI,NXP Semiconductors,,,,,,,,,,,,,,,
+ORLY,O'Reilly Auto Parts,,,,,,,,,,,,,,,
+OXY,Occidental Petroleum,,,,,,,,,,,,,,,
+ODFL,Old Dominion,,,,,,,,,,,,,,,
+OMC,Omnicom Group,,,,,,,,,,,,,,,
+ON,ON Semiconductor,,,,,,,,,,,,,,,
+OKE,ONEOK,,,,,,,,,,,,,,,
+ORCL,Oracle Corporation,,,,,,,,,,,,,,,
+OTIS,Otis Worldwide,,,,,,,,,,,,,,,
+PCAR,Paccar,,,,,,,,,,,,,,,
+PKG,Packaging Corporation of America,,,,,,,,,,,,,,,
+PANW,Palo Alto Networks,,,,,,,,,,,,,,,
+PARA,Paramount Global,,,,,,,,,,,,,,,
+PH,Parker Hannifin,,,,,,,,,,,,,,,
+PAYX,Paychex,,,,,,,,,,,,,,,
+PAYC,Paycom,,,,,,,,,,,,,,,
+PYPL,PayPal,,,,,,,,,,,,,,,
+PNR,Pentair,,,,,,,,,,,,,,,
+PEP,PepsiCo,,,,,,,,,,,,,,,
+PFE,Pfizer,,,,,,,,,,,,,,,
+PCG,PG&E Corporation,,,,,,,,,,,,,,,
+PM,Philip Morris International,,,,,,,,,,,,,,,
+PSX,Phillips 66,,,,,,,,,,,,,,,
+PNW,Pinnacle West,,,,,,,,,,,,,,,
+PXD,Pioneer Natural Resources,,,,,,,,,,,,,,,
+PNC,PNC Financial Services,,,,,,,,,,,,,,,
+POOL,Pool Corporation,,,,,,,,,,,,,,,
+PPG,PPG Industries,,,,,,,,,,,,,,,
+PPL,PPL Corporation,,,,,,,,,,,,,,,
+PFG,Principal Financial Group,,,,,,,,,,,,,,,
+PG,Procter & Gamble,,,,,,,,,,,,,,,
+PGR,Progressive Corporation,,,,,,,,,,,,,,,
+PLD,Prologis,,,,,,,,,,,,,,,
+PRU,Prudential Financial,,,,,,,,,,,,,,,
+PEG,Public Service Enterprise Group,,,,,,,,,,,,,,,
+PTC,PTC,,,,,,,,,,,,,,,
+PSA,Public Storage,,,,,,,,,,,,,,,
+PHM,PulteGroup,,,,,,,,,,,,,,,
+QRVO,Qorvo,,,,,,,,,,,,,,,
+PWR,Quanta Services,,,,,,,,,,,,,,,
+QCOM,Qualcomm,,,,,,,,,,,,,,,
+DGX,Quest Diagnostics,,,,,,,,,,,,,,,
+RL,Ralph Lauren Corporation,,,,,,,,,,,,,,,
+RJF,Raymond James,,,,,,,,,,,,,,,
+RTX,RTX Corporation,,,,,,,,,,,,,,,
+O,Realty Income,,,,,,,,,,,,,,,
+REG,Regency Centers,,,,,,,,,,,,,,,
+REGN,Regeneron,,,,,,,,,,,,,,,
+RF,Regions Financial Corporation,,,,,,,,,,,,,,,
+RSG,Republic Services,,,,,,,,,,,,,,,
+RMD,ResMed,,,,,,,,,,,,,,,
+RVTY,Revvity,,,,,,,,,,,,,,,
+RHI,Robert Half,,,,,,,,,,,,,,,
+ROK,Rockwell Automation,,,,,,,,,,,,,,,
+ROL,Rollins Inc,,,,,,,,,,,,,,,
+ROP,Roper Technologies,,,,,,,,,,,,,,,
+ROST,Ross Stores,,,,,,,,,,,,,,,
+RCL,Royal Caribbean Group,,,,,,,,,,,,,,,
+SPGI,S&P Global,,,,,,,,,,,,,,,
+CRM,Salesforce,,,,,,,,,,,,,,,
+SBAC,SBA Communications,,,,,,,,,,,,,,,
+SLB,Schlumberger,,,,,,,,,,,,,,,
+STX,Seagate Technology,,,,,,,,,,,,,,,
+SRE,Sempra Energy,,,,,,,,,,,,,,,
+NOW,ServiceNow,,,,,,,,,,,,,,,
+SHW,Sherwin-Williams,,,,,,,,,,,,,,,
+SPG,Simon Property Group,,,,,,,,,,,,,,,
+SWKS,Skyworks Solutions,,,,,,,,,,,,,,,
+SJM,JM Smucker Company,,,,,,,,,,,,,,,
+SNA,Snap-on,,,,,,,,,,,,,,,
+SOLV,Solventum,,,,,,,,,,,,,,,
+SO,Southern Company,,,,,,,,,,,,,,,
+LUV,Southwest Airlines,,,,,,,,,,,,,,,
+SWK,Stanley Black & Decker,,,,,,,,,,,,,,,
+SBUX,Starbucks,,,,,,,,,,,,,,,
+STT,State Street Corporation,,,,,,,,,,,,,,,
+STLD,Steel Dynamics,,,,,,,,,,,,,,,
+STE,Steris,,,,,,,,,,,,,,,
+SYK,Stryker Corporation,,,,,,,,,,,,,,,
+SMCI,Supermicro,,,,,,,,,,,,,,,
+SYF,Synchrony Financial,,,,,,,,,,,,,,,
+SNPS,Synopsys,,,,,,,,,,,,,,,
+SYY,Sysco,,,,,,,,,,,,,,,
+TMUS,T-Mobile US,,,,,,,,,,,,,,,
+TROW,T Rowe Price,,,,,,,,,,,,,,,
+TTWO,Take-Two Interactive,,,,,,,,,,,,,,,
+TPR,Tapestry Inc,,,,,,,,,,,,,,,
+TRGP,Targa Resources,,,,,,,,,,,,,,,
+TGT,Target Corporation,,,,,,,,,,,,,,,
+TEL,TE Connectivity,,,,,,,,,,,,,,,
+TDY,Teledyne Technologies,,,,,,,,,,,,,,,
+TFX,Teleflex,,,,,,,,,,,,,,,
+TER,Teradyne,,,,,,,,,,,,,,,
+TSLA,Tesla,,,,,,,,,,,,,,,
+TXN,Texas Instruments,,,,,,,,,,,,,,,
+TXT,Textron,,,,,,,,,,,,,,,
+TMO,Thermo Fisher Scientific,,,,,,,,,,,,,,,
+TJX,TJX Companies,,,,,,,,,,,,,,,
+TSCO,Tractor Supply,,,,,,,,,,,,,,,
+TT,Trane Technologies,,,,,,,,,,,,,,,
+TDG,TransDigm Group,,,,,,,,,,,,,,,
+TRV,Travelers Companies,,,,,,,,,,,,,,,
+TRMB,Trimble Inc,,,,,,,,,,,,,,,
+TFC,Truist,,,,,,,,,,,,,,,
+TYL,Tyler Technologies,,,,,,,,,,,,,,,
+TSN,Tyson Foods,,,,,,,,,,,,,,,
+USB,US Bank,,,,,,,,,,,,,,,
+UBER,Uber,,,,,,,,,,,,,,,
+UDR,UDR Inc,,,,,,,,,,,,,,,
+ULTA,Ulta Beauty,,,,,,,,,,,,,,,
+UNP,Union Pacific Corporation,,,,,,,,,,,,,,,
+UAL,United Airlines Holdings,,,,,,,,,,,,,,,
+UPS,United Parcel Service,,,,,,,,,,,,,,,
+URI,United Rentals,,,,,,,,,,,,,,,
+UNH,UnitedHealth Group,,,,,,,,,,,,,,,
+UHS,Universal Health Services,,,,,,,,,,,,,,,
+VLO,Valero Energy,,,,,,,,,,,,,,,
+VTR,Ventas,,,,,,,,,,,,,,,
+VLTO,Veralto,,,,,,,,,,,,,,,
+VRSN,Verisign,,,,,,,,,,,,,,,
+VRSK,Verisk,,,,,,,,,,,,,,,
+VZ,Verizon,,,,,,,,,,,,,,,
+VRTX,Vertex Pharmaceuticals,,,,,,,,,,,,,,,
+VTRS,Viatris,,,,,,,,,,,,,,,
+VICI,Vici Properties,,,,,,,,,,,,,,,
+V,Visa Inc,,,,,,,,,,,,,,,
+VMC,Vulcan Materials Company,,,,,,,,,,,,,,,
+WRB,Berkley,,,,,,,,,,,,,,,
+WAB,Wabtec,,,,,,,,,,,,,,,
+WBA,Walgreens Boots Alliance,,,,,,,,,,,,,,,
+WMT,Walmart,,,,,,,,,,,,,,,
+DIS,Walt Disney,,,,,,,,,,,,,,,
+WBD,Warner Bros Discovery,,,,,,,,,,,,,,,
+WM,Waste Management,,,,,,,,,,,,,,,
+WAT,Waters Corporation,,,,,,,,,,,,,,,
+WEC,WEC Energy Group,,,,,,,,,,,,,,,
+WFC,Wells Fargo,,,,,,,,,,,,,,,
+WELL,Welltower,,,,,,,,,,,,,,,
+WST,West Pharmaceutical Services,,,,,,,,,,,,,,,
+WDC,Western Digital,,,,,,,,,,,,,,,
+WRK,WestRock,,,,,,,,,,,,,,,
+WY,Weyerhaeuser,,,,,,,,,,,,,,,
+WMB,Williams Companies,,,,,,,,,,,,,,,
+WTW,Willis Towers Watson,,,,,,,,,,,,,,,
+GWW,W W Grainger,,,,,,,,,,,,,,,
+WYNN,Wynn Resorts,,,,,,,,,,,,,,,
+XEL,Xcel Energy,,,,,,,,,,,,,,,
+XYL,Xylem Inc,,,,,,,,,,,,,,,
+YUM,Yum! Brands,,,,,,,,,,,,,,,
+ZBRA,Zebra Technologies,,,,,,,,,,,,,,,
+ZBH,Zimmer Biomet,,,,,,,,,,,,,,,
+ZTS,Zoetis,,,,,,,,,,,,,,,
